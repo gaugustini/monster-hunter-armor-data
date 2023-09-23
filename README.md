@@ -1,7 +1,7 @@
 # Monster Hunter Armor Data
 
 <p>
-  <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/github/license/gaugustini/vort"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/github/license/gaugustini/monster-hunter-armor-data"/></a>
   <a href="https://github.com/gaugustini"><img alt="Profile" src="https://img.shields.io/badge/-gaugustini-blue?logo=github"/></a> 
 </p>
 
@@ -63,7 +63,7 @@ Most of the data has no translation to other languages, so there will be empty s
 | Skill Pairs (name/points)                              | Skill name and value       |
 | Material Pairs (name/amount)                           | Material name and value    |
 
-*All names are in English*
+*Note: All names are in English*
 
 
 ### Decoration
@@ -78,7 +78,7 @@ Most of the data has no translation to other languages, so there will be empty s
 | Material Pairs (name/amount)             | Material name and value             |
 | Alternative Material Pairs (name/amount) | Alternative material name and value |
 
-*All names are in English*
+*Note: All names are in English*
 
 
 ### Skill
@@ -90,10 +90,10 @@ Most of the data has no translation to other languages, so there will be empty s
 | points  | Points to activate the skill |
 | type    | Type of hunter               |
 
-*All names are in English*
+*Note: All names are in English*
 
 
-#### Language Files
+### Language Files
 
 | Headers  | Description      |
 | -------- |------------------|
@@ -104,7 +104,7 @@ Most of the data has no translation to other languages, so there will be empty s
 | japanese | Name in japanese |
 | chinese  | Name in chinese  |
 
-*There will be empty spaces in some languages*
+*Note: There will be empty spaces in some languages*
 
 
 ## Credits
