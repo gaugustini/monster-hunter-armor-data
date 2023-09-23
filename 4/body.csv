@@ -1,0 +1,368 @@
+name,hr,village,slots,gender,type,rarity,defense,fire,thunder,dragon,water,ice,skill_one,skill_one_points,skill_two,skill_two_points,skill_three,skill_three_points,skill_four,skill_four_points,skill_five,skill_five_points,material_one,amount_one,material_two,amount_two,material_three,amount_three,material_four,amount_four
+Brave's Vest,1,1,0,0,0,1,1,2,0,1,0,0,Health,-2,Rec Speed,2,Rider,3,,,,,Monster Bone S,1,Iron Ore,1,,,,
+Leather Vest,1,1,0,0,0,1,1,-1,0,1,0,0,Gathering,3,Whim,2,,,,,,,Warm Pelt,1,Monster Bone S,1,,,,
+Chainmail Vest,1,1,0,0,0,1,4,2,-2,0,1,1,Health,3,Hunger,1,,,,,,,Iron Ore,2,Warm Pelt,1,,,,
+Loc LacSuit,1,2,1,0,0,1,5,2,1,0,-3,0,Heat Res,5,Transporter,3,,,,,,,Steel Egg,1,Altaroth Stomach,2,Jaggi Hide,3,,
+Hunter's Mail,1,1,1,0,1,1,6,0,-3,0,1,0,Combo Rate,2,Ranger,1,Poison,-2,,,,,Iron Ore,2,Jaggi Scale,1,Monster Bone S,2,,
+Hunter's Vest,1,1,1,0,2,1,3,1,-2,1,2,1,Combo Rate,2,Ranger,1,Poison,-2,,,,,Iron Ore,2,Jaggi Scale,1,Monster Bone S,2,,
+Bone Mail,1,3,1,0,1,1,7,1,-1,0,0,-2,KO,2,Maestro,1,,,,,,,Mystery Bone,2,Jumbo Bone,1,Altaroth Stomach,2,,
+Bone Vest,1,3,1,0,2,1,4,2,0,1,1,-1,KO,2,Maestro,1,,,,,,,Mystery Bone,2,Jumbo Bone,1,Altaroth Stomach,2,,
+Alloy Mail,1,1,1,0,1,1,8,-1,-2,0,1,-1,Defense,1,Gathering,-2,Wind Res,3,,,,,Machalite Ore,3,Monster Bone S,2,Iron Ore,2,,
+Alloy Vest,1,1,1,0,2,1,4,0,-1,1,2,0,Gathering,-2,Pellet Up,2,Pellet S+,2,,,,,Machalite Ore,3,Monster Bone S,2,Iron Ore,2,,
+Rhenoplos Mail,1,3,1,0,1,2,8,1,-1,1,-1,-1,KO,1,Faint,-2,Snow/Mud Res,2,,,,,Rhenoplos Scalp,1,Rhenoplos Shell,2,Earth Crystal,2,,
+Rhenoplos Vest,1,3,1,0,2,2,4,2,0,2,0,0,KO,1,Faint,-2,Snow/Mud Res,2,,,,,Rhenoplos Scalp,1,Rhenoplos Shell,2,Earth Crystal,2,,
+Bnahabra Suit,1,2,0,0,1,2,10,-4,2,2,-1,-1,Attack,-2,Status,2,Sheathing,2,Paralysis,1,,,Bnahabra Shell,2,Bnahabra Wing,3,Monster Fluid,2,Thunderbug,1
+Bnahabra Vest,1,2,0,0,2,2,5,-3,3,3,0,0,Attack,-2,Status,1,Sheathing,3,Paralysis,1,,,Bnahabra Shell,2,Bnahabra Wing,3,Monster Fluid,2,Thunderbug,1
+Jaggi Mail,1,2,0,0,1,2,10,-2,0,1,0,0,Sharpening Speed,1,Lasting Power,-1,Faint,2,,,,,King's Frill,1,Great Jaggi Claw,2,Jaggi Hide,3,Iron Ore,3
+Jaggi Vest,1,2,0,0,2,2,5,-1,1,2,1,1,Reload Speed,1,Lasting Power,-1,Faint,2,,,,,King's Frill,1,Great Jaggi Claw,2,Jaggi Hide,3,Iron Ore,3
+SlagtothCloak,2,3,0,0,1,2,10,-2,0,1,2,-1,Health,8,Rec Speed,2,,,,,,,Slagtoth Hide,4,Machalite Ore,2,Warm Pelt,3,,
+SlagtothCape,2,3,0,0,2,2,5,-1,1,2,3,0,Health,8,Rec Speed,2,,,,,,,Slagtoth Hide,4,Machalite Ore,2,Warm Pelt,3,,
+Genprey Mail,2,3,1,0,1,2,12,1,-2,2,1,-3,Status,2,Paralysis,1,,,,,,,Genprey Hide,3,Genprey Scale,2,Paralysis Sac,1,Iron Ore,3
+Genprey Vest,2,3,1,0,2,2,6,2,-1,3,2,-2,Status,2,Paralysis,1,,,,,,,Genprey Hide,3,Genprey Scale,2,Paralysis Sac,1,Iron Ore,3
+Velociprey Mail,1,2,0,0,1,2,13,0,0,2,0,-4,Attack,2,Psychic,3,Paralysis,-2,Faint,2,,,Velocidrome Claw,2,Screamer,2,Velociprey Hide,3,Gluehopper,2
+Velociprey Vest,1,2,0,0,2,2,7,1,1,3,1,-3,Attack,2,Psychic,3,Paralysis,-2,Faint,2,,,Velocidrome Claw,2,Screamer,2,Velociprey Hide,3,Gluehopper,2
+Arzuros Mail,-1,3,1,0,1,2,13,-2,0,1,1,-1,Speed Gatherer,2,Gluttony,2,Hunger,-1,Honey,1,,,Arzuros Pelt,3,Arzuros Shell,1,Flashbug,2,,
+Arzuros Vest,-1,3,1,0,2,2,7,-1,1,2,2,0,Speed Gatherer,2,Gluttony,2,Hunger,-1,Honey,1,,,Arzuros Pelt,3,Arzuros Shell,1,Flashbug,2,,
+High-Metal Mail,2,4,0,0,1,2,14,-2,3,0,-2,-1,Artillery,2,Health,4,Stamina,-2,,,,,Dragonite Ore,2,Machalite Ore,4,Iron Ore,3,Velociprey Hide,2
+High-Metal Vest,2,4,0,0,2,2,7,-1,4,1,-1,0,Artillery,2,Health,4,Stamina,-2,,,,,Dragonite Ore,2,Machalite Ore,4,Iron Ore,3,Velociprey Hide,2
+Battle Mail,3,5,0,0,1,2,14,2,-2,0,-2,-1,Attack,1,Hearing,-2,Guard,2,Sharpening Speed,4,,,Remobra Skin,2,Warm Pelt,2,Genprey Scale,5,Earth Crystal,3
+Battle Vest,3,5,0,0,2,2,7,3,-1,1,-1,0,Reload Speed,4,Attack,1,Hearing,-2,Guard Boost,2,,,Remobra Skin,2,Warm Pelt,2,Genprey Scale,5,Earth Crystal,3
+Kecha Mail,1,3,2,0,1,2,14,-3,-2,2,2,0,Fate,-1,Water Attack,1,Whim,1,,,,,Kecha-Wacha Ear,1,Kecha-Wacha Claw,1,Kecha-Wacha Pelt,2,Gluehopper,2
+Kecha Vest,1,3,2,0,2,2,7,-2,-1,3,3,1,Fate,-1,Water Attack,1,Whim,1,,,,,Kecha-Wacha Ear,1,Kecha-Wacha Claw,1,Kecha-Wacha Pelt,2,Gluehopper,2
+Gypceros Mail,1,3,1,0,1,2,14,-4,2,0,1,-2,Stamina,2,Hunger,-2,Poison,3,,,,,Poison Sac,1,Earth Crystal,1,Gypceros Hide,2,Machalite Ore,2
+Gypceros Vest,1,3,1,0,2,2,7,-3,3,1,2,-1,Stamina,2,Hunger,-2,Poison,3,,,,,Poison Sac,1,Earth Crystal,1,Gypceros Hide,2,Machalite Ore,2
+Conga Mail,2,4,0,0,1,2,14,-3,1,2,1,-1,Biology,3,Gluttony,1,Hunger,-2,,,,,Congalala Pelt,2,Conga Pelt,4,Pelagus Bone,2,Gluehopper,3
+Conga Vest,2,4,0,0,2,2,7,-2,2,3,2,0,Biology,3,Gluttony,1,Hunger,-2,,,,,Congalala Pelt,2,Conga Pelt,4,Pelagus Bone,2,Gluehopper,3
+Ludroth Mail,-1,3,1,0,1,2,15,-3,-1,1,2,-1,Stamina,2,Water Attack,2,Thunder Res,-2,Heat Res,2,,,Spongy Hide,2,Ludroth Claw,1,Velociprey Hide,3,Earth Crystal,3
+Ludroth Vest,-1,3,1,0,2,2,7,-2,0,2,3,0,Stamina,2,Water Attack,2,Thunder Res,-2,Heat Res,2,,,Spongy Hide,2,Ludroth Claw,1,Velociprey Hide,3,Earth Crystal,3
+Lagombi Mail,2,4,1,0,1,2,15,-2,-1,2,2,2,Evade Distance,2,Heat Res,-1,Cold Res,2,,,,,Lagombi Plastron,2,Lagombi Pelt,2,Jaggi Scale,4,Killer Beetle,3
+Lagombi Vest,2,4,1,0,2,2,8,-1,0,3,3,3,Evade Distance,2,Heat Res,-1,Cold Res,2,,,,,Lagombi Plastron,2,Lagombi Pelt,2,Jaggi Scale,4,Killer Beetle,3
+Ioprey Mail,3,5,2,0,1,2,15,0,-3,2,-3,2,Status,2,Poison,1,Faint,-2,,,,,Ioprey Hide,2,Poison Sac,3,Ioprey Scale,2,Machalite Ore,3
+Ioprey Vest,3,5,2,0,2,2,8,1,-2,3,-2,3,Status,2,Poison,1,Faint,-2,,,,,Ioprey Hide,2,Poison Sac,3,Ioprey Scale,2,Machalite Ore,3
+Remobra Body,3,-1,1,0,1,2,15,1,2,-3,-2,1,Free Element,2,Blight Res,-1,Poison,2,,,,,Remobra Skin,4,Rathalos Webbing,2,Gluehopper,4,Insect Coin,1
+Remobra Wear,3,-1,1,0,2,2,8,2,3,-2,-1,2,Free Element,2,Blight Res,-1,Poison,2,,,,,Remobra Skin,4,Rathalos Webbing,2,Gluehopper,4,Insect Coin,1
+Tetsukabra Mail,1,3,0,0,1,2,16,2,-2,1,-3,0,Defense,1,Gathering,-3,Health,4,,,,,Tetsukabra Scale,2,Tetsukabra Claw,1,Rhenoplos Shell,3,Gluehopper,2
+Tetsukabra Vest,1,3,0,0,2,2,8,3,-1,2,-2,1,Defense,1,Gathering,-3,Health,4,,,,,Tetsukabra Scale,2,Tetsukabra Claw,1,Rhenoplos Shell,3,Gluehopper,2
+Kut-Ku Mail,1,2,1,0,1,2,16,2,-2,2,-1,-3,Attack,2,Fire Attack,3,Water Res,-2,,,,,Kut-Ku Scale,2,Kut-Ku Shell,3,Kut-Ku Webbing,1,Monster Bone S,3
+Kut-Ku Vest,1,2,1,0,2,2,8,3,-1,3,0,-2,Attack,2,Fire Attack,3,Water Res,-2,,,,,Kut-Ku Scale,2,Kut-Ku Shell,3,Kut-Ku Webbing,1,Monster Bone S,3
+King Lobster Shell,-1,4,2,0,1,4,16,-2,-5,-2,5,2,Evasion,2,Evade Distance,1,Fire Res,-3,,,,,Sm Lobster Shell,2,Lobster Tail,1,Zaboazagiru Fin,1,Ice Crystal,10
+King Lobster Skin,-1,4,2,0,2,4,8,-1,-4,-1,6,3,Evasion,2,Evade Distance,1,Fire Res,-3,,,,,Sm Lobster Shell,2,Lobster Tail,1,Zaboazagiru Fin,1,Ice Crystal,10
+Barroth Mail,-1,4,0,0,1,2,18,-4,1,0,4,-2,Attack,1,Defense,3,Guard,2,Hunger,-2,,,Barroth Scalp,1,Barroth Shell,2,Killer Beetle,2,,
+Barroth Vest,-1,4,0,0,2,2,8,-3,2,1,5,-1,Attack,1,Defense,3,Precision,2,Hunger,-2,,,Barroth Scalp,1,Barroth Shell,2,Killer Beetle,2,,
+Ingot Mail,3,5,1,0,1,3,18,-2,2,0,-2,0,Guard Boost,1,Sheathing,1,Thunder Attack,2,Whim,-2,,,Firestone,1,Dragonite Ore,4,Iron Ore,8,Ice Crystal,3
+Ingot Vest,3,5,1,0,2,3,8,-1,3,1,-1,1,Recoil,1,Pellet Up,1,Thunder Attack,2,Whim,-2,,,Firestone,1,Dragonite Ore,4,Iron Ore,8,Ice Crystal,3
+Basarios Mail,2,3,0,0,1,2,18,0,1,-3,-2,1,Heat Res,2,Poison,1,Paralysis,-1,Sleep,4,,,Basarios Shell,5,Machalite Ore,7,Poison Sac,3,Basarios Wing,1
+Basarios Vest,2,3,0,0,2,2,9,1,2,-2,-1,2,Heat Res,2,Poison,1,Paralysis,-1,Sleep,4,,,Basarios Shell,5,Machalite Ore,7,Poison Sac,3,Basarios Wing,1
+Guardian Suit,2,-1,1,1,1,4,18,0,0,0,0,0,Gathering,-2,Fate,1,Artillery,2,Protection,2,,,Dragonite Ore,2,Pinnacle Coin,3,Fanged Coin,5,,
+Guardian Vest,2,-1,1,1,2,4,9,1,1,1,1,1,Gathering,-2,Fate,1,Wide Range,2,Protection,2,,,Dragonite Ore,2,Pinnacle Coin,3,Fanged Coin,5,,
+Helper Suit,2,-1,1,2,1,4,18,0,0,0,0,0,Gathering,-2,Fate,1,Artillery,2,Protection,2,,,Dragonite Ore,2,Pinnacle Coin,3,Fanged Coin,5,,
+Helper Vest,2,-1,1,2,2,4,9,1,1,1,1,1,Gathering,-2,Fate,1,Wide Range,2,Protection,2,,,Dragonite Ore,2,Pinnacle Coin,3,Fanged Coin,5,,
+Rouaga Petto,3,5,1,1,1,4,18,-4,3,1,0,-1,Free Element,1,Hearing,3,Dragon Attack,2,Protection,-1,Honey,3,Butterfly Beetle,2,Levitalite Ore,1,Killer Beetle,2,Gluehopper,10
+Rouaga Pectus,3,5,1,1,2,4,9,-3,4,2,1,0,Free Element,1,Hearing,3,Dragon Attack,2,Protection,-1,Honey,3,Butterfly Beetle,2,Levitalite Ore,1,Killer Beetle,2,Gluehopper,10
+Falmer Petto,3,5,1,2,1,4,18,-4,3,1,0,-1,Free Element,1,Hearing,3,Dragon Attack,2,Protection,-1,Honey,3,Butterfly Beetle,2,Levitalite Ore,1,Killer Beetle,2,Gluehopper,10
+Falmer Pectus,3,5,1,2,2,4,9,-3,4,2,1,0,Free Element,1,Hearing,3,Dragon Attack,2,Protection,-1,Honey,3,Butterfly Beetle,2,Levitalite Ore,1,Killer Beetle,2,Gluehopper,10
+Nightmare Toronko,-1,4,0,0,1,4,19,-4,0,0,1,2,Destroyer,1,Fast Charge,1,Combo Rate,2,Combo Plus,2,Rec Speed,1,Bumblepumpkin,3,Killer Beetle,2,Thunderbug,4,Sunset Root,10
+Nightmare Shtam,-1,4,0,0,2,4,9,-3,1,1,2,3,Destroyer,1,Fast Charge,1,Combo Rate,2,Combo Plus,2,Rec Speed,1,Bumblepumpkin,3,Killer Beetle,2,Thunderbug,4,Sunset Root,10
+Nerusukyura Mail,2,4,1,0,1,2,19,-2,-2,2,2,1,Perception,3,Hunger,-2,Speed Setup,1,Sleep,1,,,Nerusukyura Spike,1,Nerusukyura Horn,2,Nerusukyura Shell,1,Monster Bone M,3
+Nerusukyura Vest,2,4,1,0,2,2,9,-1,-1,3,3,2,Perception,2,Hunger,-2,Speed Setup,2,Sleep,1,,,Nerusukyura Spike,1,Nerusukyura Horn,2,Nerusukyura Shell,1,Monster Bone M,3
+Khezu Mail,2,4,2,0,1,2,19,-4,1,1,1,2,Thunder Attack,2,Recovery Level,1,Faint,-2,,,,,Flabby Hide,2,Iron Ore,8,Sharp Claw,2,Monster Fluid,2
+Khezu Vest,2,4,2,0,2,2,10,-3,2,2,2,3,Thunder Attack,2,Recovery Level,1,Faint,-2,,,,,Flabby Hide,2,Iron Ore,8,Sharp Claw,2,Monster Fluid,2
+Rathian Mail,2,4,0,0,1,2,19,2,-2,-3,0,0,Health,4,Fire Attack,2,Rec Speed,-2,,,,,Rathian Scale,4,Rathian Webbing,3,Rath Marrow,1,Machalite Ore,5
+Rathian Vest,2,4,0,0,2,2,10,3,-1,-2,1,1,Health,4,Fire Attack,2,Rec Speed,-2,,,,,Rathian Scale,4,Rathian Webbing,3,Rath Marrow,1,Machalite Ore,5
+Artian Mail,3,5,1,0,1,3,20,0,-3,2,-3,1,Guard Boost,5,Sharpening Speed,-3,Stamina Recovery,1,,,,,Rusted Fragment,5,Firestone,2,Dragonite Ore,4,,
+Artian Vest,3,5,1,0,2,3,10,1,-2,3,-2,2,Reload Speed,-3,Recoil,1,Precision,5,,,,,Rusted Fragment,5,Firestone,2,Dragonite Ore,4,,
+Zaboazagiru Mail,2,4,1,0,1,2,20,-2,-3,0,2,2,Health,2,Ice Attack,1,Carnivore,3,Hunger,-2,,,Zaboazagiru Hide,3,Zaboazagiru Fin,2,Zaboazagiru Scale,2,Fleshy Hide,3
+Zaboazagiru Vest,2,4,1,0,2,2,10,-1,-2,1,3,3,Health,2,Ice Attack,1,Carnivore,3,Hunger,-2,,,Zaboazagiru Hide,3,Zaboazagiru Fin,2,Zaboazagiru Scale,2,Fleshy Hide,3
+Garara Mail,2,4,1,0,1,2,20,1,0,1,-2,-4,Tranquilizer,1,Hearing,3,Whim,-2,Paralysis,1,,,Garara Rattle,2,Garara Hide,3,Garara Shell,3,Genprey Hide,3
+Garara Vest,2,4,1,0,2,2,10,2,1,2,-1,-3,Tranquilizer,1,Hearing,2,Whim,-2,Paralysis,2,,,Garara Rattle,2,Garara Hide,3,Garara Shell,3,Genprey Hide,3
+Plesioth Mail,-1,4,0,0,1,4,20,-4,-5,2,3,2,Tranquilizer,3,Stamina,2,Heat Res,3,Speed Setup,1,,,Plesioth Fin,3,Shark Scale,2,Monster Fluid,2,,
+Plesioth Vest,-1,4,0,0,2,4,10,-3,-4,3,4,3,Tranquilizer,3,Stamina,2,Heat Res,3,Speed Setup,1,,,Plesioth Fin,3,Shark Scale,2,Monster Fluid,2,,
+Guild Bard Suit,3,-1,1,1,1,4,20,0,0,0,0,0,Fate,2,Wide Range,4,Sense,-1,,,,,Levitalite Ore,1,Insect Coin,2,Fanged Coin,5,Pinnacle Coin,3
+Guild Bard Vest,3,-1,1,1,2,4,10,1,1,1,1,1,Fate,2,Wide Range,4,Sense,-1,,,,,Levitalite Ore,1,Insect Coin,2,Fanged Coin,5,Pinnacle Coin,3
+Scholar Suit,3,-1,1,2,1,4,20,0,0,0,0,0,Fate,2,Wide Range,4,Sense,-1,,,,,Levitalite Ore,1,Insect Coin,2,Fanged Coin,5,Pinnacle Coin,3
+Scholar Vest,3,-1,1,2,2,4,10,1,1,1,1,1,Fate,2,Wide Range,4,Sense,-1,,,,,Levitalite Ore,1,Insect Coin,2,Fanged Coin,5,Pinnacle Coin,3
+Zinogre Mail,3,5,0,0,1,3,21,0,2,1,-2,-4,Gloves Off,3,Thunder Attack,1,Sense,-2,,,,,Zinogre Electrofur,1,Zinogre Shell,2,Zinogre Static Carapace,2,Thunderbug,10
+Zinogre Vest,3,5,0,0,2,3,10,1,3,2,-1,-3,Gloves Off,3,Thunder Attack,1,Sense,-2,,,,,Zinogre Electrofur,1,Zinogre Shell,2,Zinogre Static Carapace,2,Thunderbug,10
+Generu Mail,3,5,1,0,1,3,21,-3,-1,2,2,-2,Artillery,3,Sharpness,2,Stamina Recovery,-2,,,,,Generu Shield,4,Generu Tail,3,Generu Shell,2,Altaroth Stomach,4
+Generu Vest,3,5,1,0,2,3,10,-2,0,3,3,-1,Artillery,3,Crag S+,2,Stamina Recovery,-2,,,,,Generu Shield,4,Generu Tail,3,Generu Shell,2,Altaroth Stomach,4
+Nibelsnarf Mail,-1,5,1,0,1,2,21,2,-2,1,0,-4,Sheathing,1,Eating,2,,,,,,,Nibelsnarf Hide,4,Monster Fluid,1,Monster Bone L,3,,
+Nibelsnarf Vest,-1,5,1,0,2,2,10,3,-1,2,1,-3,Sheathing,1,Eating,1,,,,,,,Nibelsnarf Hide,4,Monster Fluid,1,Monster Bone L,3,,
+Ceanataur Mail,-1,5,0,0,1,2,21,1,-1,0,2,-1,Sharpness,2,Sharpening Speed,1,,,,,,,Ceanataur Shell,2,Earth Crystal,4,Killer Beetle,1,,
+Ceanataur Vest,-1,5,2,0,2,2,10,2,0,1,3,0,Defense,-1,Pierce S+,1,Precision,3,,,,,Ceanataur Shell,2,Earth Crystal,4,Killer Beetle,1,,
+Goa Mail,3,5,0,0,1,3,21,-4,-3,-2,2,1,Biology,2,Handicraft,2,Spirit,2,Fire Res,-3,,,Goa Magara Scale,3,Goa Magara Wing,2,Goa Magara Shell,3,Goa Magara Tail,1
+Goa Vest,3,5,0,0,2,3,11,-3,-2,-1,3,2,Biology,2,Spirit,2,Loading,2,Fire Res,-3,,,Goa Magara Scale,3,Goa Magara Wing,2,Goa Magara Shell,3,Goa Magara Tail,1
+Tigrex Mail,3,5,2,0,1,3,22,2,-4,-2,-1,0,Attack,2,Sharpening Speed,-2,Gluttony,1,,,,,Tigrex Claw,5,Tigrex Shell,3,Tigrex Tail,1,Fleshy Hide,6
+Tigrex Vest,3,5,2,0,2,3,11,3,-3,-1,0,1,Recoil,-2,Attack,2,Gluttony,1,,,,,Tigrex Claw,5,Tigrex Shell,3,Tigrex Tail,1,Fleshy Hide,6
+Brachydios Mail,3,6,1,0,1,3,22,2,0,0,-4,-2,Spirit,3,Evasion,-2,Bomb Boost,2,,,,,Brachydios Shell,4,Brachydios Ebonshell,3,Lightcrystal,4,Gravios Wing,2
+Brachydios Vest,3,6,1,0,2,3,11,3,1,1,-3,-1,Spirit,3,Evasion,-2,Bomb Boost,2,,,,,Brachydios Shell,4,Brachydios Ebonshell,3,Lightcrystal,4,Gravios Wing,2
+Nargacuga Mail,5,-1,1,0,1,3,22,-2,-4,1,1,1,Handicraft,2,Evasion,3,Stamina,-2,Evade Distance,2,,,Nargacuga Pelt,2,Nargacuga Marrow,1,Khezu Hide,6,,
+Nargacuga Vest,5,-1,1,0,2,3,11,-1,-3,2,2,2,Evasion,3,Stamina,-2,Evade Distance,2,Loading,2,,,Nargacuga Pelt,2,Nargacuga Marrow,1,Khezu Hide,6,,
+Gravios Mail,3,5,2,0,1,3,23,2,0,-2,-3,1,Defense,2,Guard,1,Stamina,-1,,,,,Gravios Shell,5,Gravios Wing,3,Monster Bone+,3,Iodrome Hide,2
+Gravios Vest,3,5,2,0,2,3,12,3,1,-1,-2,2,Recoil,1,Defense,2,Stamina,-1,,,,,Gravios Shell,5,Gravios Wing,3,Monster Bone+,3,Iodrome Hide,2
+Rathalos Mail,3,5,0,0,1,3,23,2,-2,-3,0,0,Attack,2,Fire Attack,2,Recovery Level,-2,,,,,Rathalos Shell,2,Rathalos Scale,4,Rathalos Webbing,3,Dragonite Ore,3
+Rathalos Vest,3,5,0,0,2,3,12,3,-1,-2,1,1,Attack,2,Fire Attack,1,Recovery Level,-2,,,,,Rathalos Shell,2,Rathalos Scale,4,Rathalos Webbing,3,Dragonite Ore,3
+Lavasioth Mail,-1,6,2,0,1,3,23,2,0,1,-3,0,Guard,2,Rec Speed,2,Sense,-2,,,,,Lavasioth Scale,2,Lavasioth Fin,3,Flame Sac,2,,
+Lavasioth Vest,-1,6,2,0,2,3,12,3,1,2,-2,1,Recoil,2,Rec Speed,2,Sense,-2,,,,,Lavasioth Scale,2,Lavasioth Fin,3,Flame Sac,2,,
+Diablos Mail,-1,6,1,0,1,3,23,2,0,0,0,-4,Handicraft,2,Critical Draw,2,Sharpening Speed,-2,Sheathing,1,Tremor Resistence,2,Majestic Horn,1,Diablos Shell,3,Slagtoth Hide,3,,
+Diablos Vest,-1,6,1,0,2,3,12,3,1,1,1,-3,Reload Speed,3,Sheathing,1,Loading,2,Pierce Up,1,Precision,-2,Majestic Horn,1,Diablos Shell,3,Slagtoth Hide,3,,
+Garuga Mail,3,5,1,0,1,3,24,1,1,0,-3,-2,Fencing,-1,Expert,1,Hearing,4,,,,,Garuga Scale,4,Garuga Shell,5,Garuga Wing,3,Gendrome Hide,2
+Garuga Vest,3,5,1,0,2,3,12,2,2,1,-2,-1,Expert,1,Hearing,4,Stamina,-1,,,,,Garuga Scale,4,Garuga Shell,5,Garuga Wing,3,Gendrome Hide,2
+Uragaan Mail,-1,5,1,0,1,3,24,2,1,-2,-4,-1,Defense,2,Stamina,-1,Stamina Drain,2,,,,,Uragaan Shell,1,Kunchuu Shell,2,Monster Bone+,3,,
+Uragaan Vest,-1,5,1,0,2,3,12,3,2,-1,-3,0,Defense,2,Stamina,-1,Normal Up,2,,,,,Uragaan Shell,1,Kunchuu Shell,2,Monster Bone+,3,,
+Duramboros Mail,-1,6,2,0,1,3,24,-4,1,1,2,-2,Attack,1,Expert,-1,Rec Speed,2,,,,,Duramboros Horn,2,Monster Bone+,2,Warm Pelt,4,,
+Duramboros Vest,-1,6,2,0,2,3,12,-3,2,2,3,-1,Attack,1,Expert,-1,Rec Speed,2,,,,,Duramboros Horn,2,Monster Bone+,2,Warm Pelt,4,,
+Arc Mail,7,6,1,1,1,3,24,-3,0,-5,3,1,Gloves Off,2,Fire Res,-3,Infection Res,2,,,,,Shagaru Scale,3,Shagaru Wing,2,Shagaru Shell,3,Shagaru Tail,1
+Arc Vest,7,6,1,1,2,3,12,-2,1,-4,4,2,Gloves Off,2,Fire Res,-3,Infection Res,2,,,,,Shagaru Scale,3,Shagaru Wing,2,Shagaru Shell,3,Shagaru Tail,1
+Philia Mail,7,6,1,2,1,3,24,-3,0,-5,3,1,Gloves Off,2,Fire Res,-3,Infection Res,2,,,,,Shagaru Scale,3,Shagaru Wing,2,Shagaru Shell,3,Shagaru Tail,1
+Philia Vest,7,6,1,2,2,3,12,-2,1,-4,4,2,Gloves Off,2,Fire Res,-3,Infection Res,2,,,,,Shagaru Scale,3,Shagaru Wing,2,Shagaru Shell,3,Shagaru Tail,1
+Zannyo Doate,4,6,1,1,1,3,26,2,-3,-3,1,2,Punishing Draw,1,Expert,2,Potential,-3,Stamina,2,,,Mohran Rockskin,6,Rough Dragonhorn,4,Earth Dragonstone,2,Sharpened Fang,5
+Shinonome Doate,4,6,1,1,2,3,13,3,-2,-2,2,3,Reload Speed,-3,Stamina,2,Unscathed,1,Pierce Up,2,,,Mohran Rockskin,6,Rough Dragonhorn,4,Earth Dragonstone,2,Sharpened Fang,5
+Tokiwa Muneate,4,6,1,2,1,3,26,2,-3,-3,1,2,Punishing Draw,1,Expert,2,Potential,-3,Stamina,2,,,Mohran Rockskin,6,Rough Dragonhorn,4,Earth Dragonstone,2,Sharpened Fang,5
+Yachiyo Muneate,4,6,1,2,2,3,13,3,-2,-2,2,3,Reload Speed,-3,Stamina,2,Unscathed,1,Pierce Up,2,,,Mohran Rockskin,6,Rough Dragonhorn,4,Earth Dragonstone,2,Sharpened Fang,5
+Kirin Vest,3,6,1,0,1,3,26,-2,4,2,-2,0,Blight Res,2,Fate,-2,Elemental Attack,3,,,,,Kirin Hide,3,Flabby Hide,3,Gypceros Hide,2,Lightcrystal,1
+Kirin Cape,3,6,1,0,2,3,13,-1,5,3,-1,1,Blight Res,2,Fate,-2,Elemental Attack,3,,,,,Kirin Hide,3,Flabby Hide,3,Gypceros Hide,2,Lightcrystal,1
+Akatsuki Doate,-1,6,1,1,1,3,26,-2,0,-4,2,2,Fencing,1,Stamina,-2,Protection,3,,,,,Lao Shan Shell,4,Firestone,2,Tigrex Scalp,1,,
+Akebono Doate,-1,6,1,1,2,3,13,-1,1,-3,3,3,Stamina,-2,Loading,2,Protection,3,,,,,Lao Shan Shell,4,Firestone,2,Tigrex Scalp,1,,
+Rin Muneate,-1,6,1,2,1,3,26,-2,0,-4,2,2,Fencing,1,Stamina,-2,Protection,3,,,,,Lao Shan Shell,4,Firestone,2,Tigrex Scalp,1,,
+Tsuya Muneate,-1,6,1,2,2,3,13,-1,1,-3,3,3,Stamina,-2,Loading,2,Protection,3,,,,,Lao Shan Shell,4,Firestone,2,Tigrex Scalp,1,,
+MH Club Jacket,1,-1,0,0,1,7,15,3,3,3,3,3,Protection,10,,,,,,,,,MH Club Invite,3,Striped Skin,3,Remobra Skin,3,Guild Ticket,1
+MH Club Shirt,1,-1,0,0,2,7,8,4,4,4,4,4,Protection,10,,,,,,,,,MH Club Invite,3,Striped Skin,3,Remobra Skin,3,Guild Ticket,1
+Hunter Jacket,1,-1,0,0,1,7,15,2,2,2,2,2,Gloves Off,10,,,,,,,,,MH Club Invite,1,Striped Skin,4,Remobra Skull,2,Guild Ticket,1
+Hunter Rider,1,-1,0,0,2,7,8,3,3,3,3,3,Gloves Off,10,,,,,,,,,MH Club Invite,1,Striped Skin,4,Remobra Skull,2,Guild Ticket,1
+Armament Jacket,1,-1,0,0,1,7,23,2,2,2,2,2,Survivor,10,,,,,,,,,Armament Invitation,2,Generu Shield,1,Aruserutasu Shell,3,Generu Extract,1
+Armament Rider,1,-1,0,0,2,7,12,3,3,3,3,3,Survivor,10,,,,,,,,,Armament Invitation,2,Generu Shield,1,Aruserutasu Shell,3,Generu Extract,1
+Blue Star Suit,1,-1,2,0,1,7,26,1,1,1,1,1,Spirit,2,Water Attack,2,Team Player,1,,,,,Studio Pass,1,Rathalos Shell,4,Rath Medulla,2,Rage Crystal,2
+Blue Star Vest,1,-1,2,0,2,7,13,2,2,2,2,2,Spirit,1,Water Attack,2,Team Player,1,,,,,Studio Pass,1,Rathalos Shell,4,Rath Medulla,2,Rage Crystal,2
+Brave's Mail S,4,-1,0,0,1,4,18,3,0,2,0,0,Gathering,2,Health,-1,Rec Speed,2,Rider,2,,,Sky Crystal,2,Quality Pelt,1,Velociprey Hide+,2,Iron Ore,8
+Brave's Vest S,4,-1,0,0,2,4,9,4,1,3,1,1,Gathering,2,Health,-1,Rec Speed,2,Rider,2,,,Sky Crystal,2,Quality Pelt,1,Velociprey Hide+,2,Iron Ore,8
+Leather Mail S,4,-1,1,0,1,4,22,-2,0,2,0,0,Gathering,3,Fate,-1,Speed Gatherer,2,,,,,Quality Pelt,1,Monster Bone+,2,Carbalite Ore,1,,
+Leather Vest S,4,-1,1,0,2,4,11,-1,1,3,1,1,Gathering,3,Fate,-1,Speed Gatherer,2,,,,,Quality Pelt,1,Monster Bone+,2,Carbalite Ore,1,,
+Chainmail Mail S,4,-1,2,0,1,4,23,2,-3,0,2,1,Health,2,Combo Rate,2,Hunger,1,Sleep,-2,,,Carbalite Ore,2,Dragonite Ore,1,Earth Crystal,2,Hercudrome,2
+Chainmail Vest S,4,-1,2,0,2,4,11,3,-2,1,3,2,Health,2,Combo Rate,2,Hunger,1,Sleep,-2,,,Carbalite Ore,2,Dragonite Ore,1,Earth Crystal,2,Hercudrome,2
+Hunter's Mail S,4,-1,1,0,1,4,26,0,-4,0,2,0,Psychic,1,Combo Rate,2,Ranger,1,Poison,-2,,,Carbalite Ore,1,Jaggi Scale+,3,Ice Crystal,3,Iron Ore,5
+Hunter's Vest S,4,-1,1,0,2,4,13,1,-3,1,3,1,Psychic,1,Combo Rate,1,Ranger,1,Poison,-2,,,Carbalite Ore,1,Jaggi Scale+,3,Ice Crystal,3,Iron Ore,5
+Bone Mail S,4,-1,0,0,1,4,27,2,-1,0,0,-3,KO,2,Perception,1,Maestro,1,Sleep,-2,,,Stoutbone,1,Monster Bone S,5,Sharpened Fang,5,,
+Bone Vest S,4,-1,0,0,2,4,13,3,0,1,1,-2,KO,2,Perception,1,Maestro,1,Sleep,-2,,,Stoutbone,1,Monster Bone S,5,Sharpened Fang,5,,
+Alloy Mail S,4,-1,0,0,1,4,28,-1,-3,0,2,-2,Defense,1,Gathering,-2,Expert,2,Wind Res,3,,,Carbalite Ore,2,Levitalite Ore,2,Machalite Ore,7,Iron Ore,10
+Alloy Vest S,4,-1,0,0,2,4,14,0,-2,1,3,-1,Reload Speed,1,Gathering,-2,Pellet Up,2,Pellet S+,2,,,Carbalite Ore,2,Levitalite Ore,2,Machalite Ore,7,Iron Ore,10
+Rhenoplos Mail S,4,-1,1,0,1,4,31,2,-1,1,-1,-1,Artillery,1,KO,1,Faint,-3,Snow/Mud Res,2,,,Rhenoplos Carapace,1,Rhenoplos Scalp,1,Carbalite Ore,2,,
+Rhenoplos Vest S,4,-1,1,0,2,4,15,3,0,2,0,0,Artillery,2,KO,1,Faint,-3,Snow/Mud Res,2,,,Rhenoplos Carapace,1,Rhenoplos Scalp,1,Carbalite Ore,2,,
+Bnahabra Suit S,4,-1,0,0,1,4,33,-5,2,3,-1,-1,Attack,-2,Status,2,Sheathing,2,Paralysis,1,,,Bnahabra Carapace,2,Bnahabra Shell,3,Monster Broth,2,Hercudrome,2
+Bnahabra Vest S,4,-1,0,0,2,4,16,-4,3,4,0,0,Attack,-2,Status,1,Sheathing,3,Paralysis,1,,,Bnahabra Carapace,2,Bnahabra Shell,3,Monster Broth,2,Hercudrome,2
+Slagtoth Cloak S,4,-1,0,0,1,4,36,-4,0,2,3,-2,Health,8,Rec Speed,3,,,,,,,Slagtoth Hide+,2,Slagtoth Hide,5,Quality Pelt,2,,
+Slagtoth Cape S,4,-1,0,0,2,4,18,-3,1,3,4,-1,Health,8,Rec Speed,3,,,,,,,Slagtoth Hide+,2,Slagtoth Hide,5,Quality Pelt,2,,
+Jaggi Mail S,4,-1,1,0,1,4,36,-4,0,2,0,0,Attack,2,Sharpening Speed,1,Lasting Power,-2,Faint,2,,,Great Jaggi Claw+,4,Great Jaggi Hide+,4,Jaggi Hide,3,Carbalite Ore,2
+Jaggi Vest S,4,-1,1,0,2,4,18,-3,1,3,1,1,Reload Speed,1,Attack,2,Lasting Power,-2,Faint,2,,,Great Jaggi Claw+,4,Great Jaggi Hide+,4,Jaggi Hide,3,Carbalite Ore,2
+Genprey Mail S,4,-1,2,0,1,4,36,1,-3,3,1,-5,Status,2,Paralysis,1,,,,,,,Gendrome Tail,2,Genprey Scale+,2,Paralysis Sac,2,Quality Sac,3
+Genprey Vest S,4,-1,2,0,2,4,18,2,-2,4,2,-4,Status,2,Paralysis,1,,,,,,,Gendrome Tail,2,Genprey Scale+,2,Paralysis Sac,2,Quality Sac,3
+Volvidon Mail,4,-1,1,0,1,4,36,-5,2,2,-5,-4,Status,2,Poison,-2,Paralysis,2,,,,,Vespoid Wing+,5,Bnahabra Wing,6,Quality Sac,2,,
+Volvidon Vest,4,-1,1,0,2,4,18,-4,3,3,-4,-3,Status,2,Poison,-2,Paralysis,2,,,,,Vespoid Wing+,5,Bnahabra Wing,6,Quality Sac,2,,
+Qurupeco Mail,4,-1,1,0,1,4,36,2,0,0,-1,-3,Ice Res,-2,Perception,2,Wide Range,2,Maestro,2,,,Aruserutasu Wing+,3,Qurupeco Feather,1,Monster Broth,2,,
+Qurupeco Vest,4,-1,1,0,2,4,18,3,1,1,0,-2,Ice Res,-2,Perception,2,Wide Range,2,Maestro,2,,,Aruserutasu Wing+,3,Qurupeco Feather,1,Monster Broth,2,,
+Conga Mail S,4,-1,0,0,1,4,38,-4,1,3,1,-1,Biology,3,Status,1,Gluttony,2,Hunger,-2,,,Congalala Pelt+,3,Conga Pelt+,4,Pelagus Bone,6,Hercudrome,3
+Conga Vest S,4,-1,0,0,2,4,19,-3,2,4,2,0,Biology,3,Status,1,Gluttony,2,Hunger,-2,,,Congalala Pelt+,3,Conga Pelt+,4,Pelagus Bone,6,Hercudrome,3
+Conga Mail U,4,-1,0,0,1,5,40,1,0,3,0,-4,Potential,2,Bomb Boost,2,Hunger,-1,,,,,E.Congalala Pelt+,3,Conga Pelt+,4,Pelagus Bone,6,Killer Beetle,3
+Conga Vest U,4,-1,0,0,2,5,20,2,1,4,1,-3,Potential,2,Bomb Boost,2,Hunger,-1,,,,,E.Congalala Pelt+,3,Conga Pelt+,4,Pelagus Bone,6,Killer Beetle,3
+Velociprey Mail S,4,-1,1,0,1,4,38,0,0,3,0,-5,Handicraft,2,Attack,3,Paralysis,-2,Faint,2,,,Velociprey Claw+,4,Velociprey Hide+,3,Bird Wyvern Hide+,3,Carbalite Ore,2
+Velociprey Vest S,4,-1,1,0,2,4,19,1,1,4,1,-4,Attack,2,Loading,1,Paralysis,-2,Faint,2,,,Velociprey Claw+,4,Velociprey Hide+,3,Bird Wyvern Hide+,3,Carbalite Ore,2
+Cephalos Mail,4,-1,2,0,1,4,40,-3,-4,0,2,2,Psychic,2,Heat Res,2,Hunger,2,Faint,-1,,,Cephadrome Scale+,2,Cephadrome Fin+,2,Lightcrystal,2,Iron Ore,10
+Cephalos Vest,4,-1,2,0,2,4,20,-2,-3,1,3,3,Psychic,3,Heat Res,2,Hunger,2,Faint,-1,,,Cephadrome Scale+,2,Cephadrome Fin+,2,Lightcrystal,2,Iron Ore,10
+Hermitaur Mail,4,-1,2,0,1,4,40,-3,-4,1,3,0,Defense,1,Guard,2,Thunder Res,-2,,,,,Hermitaur Carapace,3,Hermitaur Claw+,1,Hercudrome,3,Stoutbone,3
+Hermitaur Vest,4,-1,2,0,2,4,20,-2,-3,2,4,1,Defense,1,Precision,2,Thunder Res,-2,,,,,Hermitaur Carapace,3,Hermitaur Claw+,1,Hercudrome,3,Stoutbone,3
+Remobra Body S,5,-1,2,0,1,4,40,2,3,-4,-3,2,Free Element,2,Blight Res,-1,Stamina Drain,2,,,,,Remobra Skin+,3,Remobra Skin,4,Rathalos Wing,2,Reptile Coin,1
+Remobra Wear S,5,-1,2,0,2,4,20,3,4,-3,-2,3,Free Element,2,Blight Res,-1,Stamina Drain,2,,,,,Remobra Skin+,3,Remobra Skin,4,Rathalos Wing,2,Reptile Coin,1
+Ioprey Body,5,-1,1,0,1,5,41,2,1,1,1,1,Fate,2,Poison,3,Faint,-2,,,,,Ioprey Scale+,2,Iodrome Hide,2,Conga Pelt+,5,Avian Finebone,5
+Ioprey Wear,5,-1,1,0,2,5,21,3,2,2,2,2,Gathering,-2,Fate,3,Fire Res,2,,,,,Ioprey Scale+,2,Iodrome Hide,2,Conga Pelt+,5,Avian Finebone,5
+Kecha Mail S,4,-1,2,0,1,4,43,-5,-3,3,3,0,Fate,-1,Water Attack,1,Constitution,1,Whim,1,,,Kecha-Wacha Ear+,2,Kecha-Wacha Pelt+,2,Stoutbone,1,Hercudrome,2
+Kecha Vest S,4,-1,2,0,2,4,21,-4,-2,4,4,1,Fate,-1,Water Attack,1,Constitution,1,Whim,1,,,Kecha-Wacha Ear+,2,Kecha-Wacha Pelt+,2,Stoutbone,1,Hercudrome,2
+Kut-Ku Mail S,4,-1,2,0,1,4,43,3,-2,2,0,-4,Attack,3,Fire Res,4,,,,,,,Kut-Ku Scale+,2,Kut-Ku Carapace,3,Kut-Ku Webbing,1,Monster Bone+,3
+Kut-Ku Vest S,4,-1,2,0,2,4,21,4,-1,3,1,-3,Attack,3,Fire Res,4,,,,,,,Kut-Ku Scale+,2,Kut-Ku Carapace,3,Kut-Ku Webbing,1,Monster Bone+,3
+Kut-Ku Mail U,4,-1,2,0,1,5,47,3,-3,2,-4,0,Expert,2,Hearing,-2,Stamina,3,,,,,Blue Kut-Ku Scale+,2,Blue Kut-Ku Carapace,3,Bird Wyvern Hide+,1,Stoutbone,3
+Kut-Ku Vest U,4,-1,2,0,2,5,23,4,-2,3,-3,1,Expert,2,Hearing,-2,Stamina,3,,,,,Blue Kut-Ku Scale+,2,Blue Kut-Ku Carapace,3,Bird Wyvern Hide+,1,Stoutbone,3
+Obituary Petto,5,-1,1,1,1,5,43,3,3,2,-5,-4,Gathering,2,Evasion,2,Status,2,Cold Res,-2,,,Maiden Butterfly,2,Rare Scarab,1,Hercudrome,4,Toxin Sac,2
+Obituary Pectus,5,-1,1,1,2,5,21,4,5,2,-4,-3,Gathering,2,Evasion,2,Status,2,Cold Res,-2,,,Maiden Butterfly,2,Rare Scarab,1,Hercudrome,4,Toxin Sac,2
+Butterfly Petto,5,-1,1,2,1,5,43,3,3,2,-5,-4,Gathering,2,Evasion,2,Status,2,Cold Res,-2,,,Maiden Butterfly,2,Rare Scarab,1,Hercudrome,4,Toxin Sac,2
+Butterfly Pectus,5,-1,1,2,2,5,21,4,5,2,-4,-3,Gathering,2,Evasion,2,Status,2,Cold Res,-2,,,Maiden Butterfly,2,Rare Scarab,1,Hercudrome,4,Toxin Sac,2
+Ioprey Mail S,5,-1,2,0,1,4,44,0,-4,3,-4,3,Status,2,Poison,1,Faint,-2,,,,,Ioprey Scale+,2,Ioprey Hide+,3,Carbalite Ore,4,Stoutbone,3
+Ioprey Vest S,5,-1,2,0,2,4,22,1,-3,4,-3,4,Status,2,Poison,1,Faint,-2,,,,,Ioprey Scale+,2,Ioprey Hide+,3,Carbalite Ore,4,Stoutbone,3
+Dober Mail,4,-1,1,0,1,6,47,-2,0,3,0,0,Dragon Attack,1,Stamina Recovery,1,Hunger,-2,Tremor Resistence,3,,,Dragonbone Relic,3,Nerusukyura Spike+,3,Monster Keenbone,5,Monster Bone S,20
+Dober Vest,4,-1,1,0,2,6,24,-1,1,4,1,1,Reload Speed,3,Dragon Attack,1,Stamina Recovery,1,Hunger,-2,,,Dragonbone Relic,3,Nerusukyura Spike+,3,Monster Keenbone,5,Monster Bone S,20
+Lagombi Mail S,5,-1,1,0,1,4,45,-3,-1,2,2,2,Evade Distance,2,Lasting Power,2,Heat Res,-2,Cold Res,2,,,Lagombi Plastron+,3,Lagombi Pelt+,3,Jaggi Scale+,6,Dragonite Ore,4
+Lagombi Vest S,5,-1,1,0,2,4,22,-2,0,3,3,3,Evade Distance,2,Lasting Power,2,Heat Res,-2,Cold Res,2,,,Lagombi Plastron+,3,Lagombi Pelt+,3,Jaggi Scale+,6,Dragonite Ore,4
+Hawk Suit,5,-1,3,1,1,6,45,2,1,2,-1,0,Ranger,1,Commander,1,Hunger,-3,,,,,Brigade Ticket,1,Felyne Ticket,2,Butterfly Beetle,3,Sky Crystal,3
+Hawk Vest,5,-1,3,1,2,6,23,3,2,3,0,1,Ranger,1,Commander,1,Hunger,-3,,,,,Brigade Ticket,1,Felyne Ticket,2,Butterfly Beetle,3,Sky Crystal,3
+Ecole Suit,5,-1,3,2,1,6,45,2,1,2,-1,0,Ranger,1,Commander,1,Hunger,-3,,,,,Brigade Ticket,1,Felyne Ticket,2,Butterfly Beetle,3,Sky Crystal,3
+Ecole Vest,5,-1,3,2,2,6,23,3,2,3,0,1,Ranger,1,Commander,1,Hunger,-3,,,,,Brigade Ticket,1,Felyne Ticket,2,Butterfly Beetle,3,Sky Crystal,3
+Gypceros Mail S,4,-1,1,0,1,5,47,-5,3,0,2,-2,Stamina,3,Hunger,-2,Poison,2,,,,,Gypceros Hide+,5,Monster Broth,3,Earth Crystal,5,Gendrome Hide,3
+Gypceros Vest S,4,-1,1,0,2,5,23,-4,4,1,3,-1,Stamina,3,Hunger,-2,Poison,3,,,,,Gypceros Hide+,5,Monster Broth,3,Earth Crystal,5,Gendrome Hide,3
+Gypceros Mail U,4,-1,2,0,1,6,48,-5,3,0,2,-2,Expert,-2,Wind Res,1,Faint,2,,,,,P.Gypceros Hide,4,Monster Broth,3,Earth Crystal,5,Hercudrome,2
+Gypceros Vest U,4,-1,2,0,2,6,24,-4,4,1,3,-1,Expert,-2,Wind Res,1,Faint,2,,,,,P.Gypceros Hide,4,Monster Broth,3,Earth Crystal,5,Hercudrome,2
+Volvidon Mail,5,-1,1,0,1,4,47,1,0,1,-3,-1,Biology,3,Evasion,2,Cold Res,-3,Tremor Resistence,1,,,Volvidon Carapace,4,Stoutbone,2,Carbalite Ore,3,,
+Volvidon Vest,5,-1,1,0,2,4,24,2,1,2,-2,0,Biology,3,Evasion,2,Cold Res,-3,Tremor Resistence,1,,,Volvidon Carapace,4,Stoutbone,2,Carbalite Ore,3,,
+Tetsukabra Mail S,4,-1,1,0,1,5,48,3,-4,2,-5,0,Defense,2,Gathering,-3,Health,3,Sharpening Speed,1,,,Tetsukabra Scale+,3,Tetsukabra Claw+,2,Rhenoplos Carapace,3,Slimy Oil+,3
+Tetsukabra Vest S,4,-1,1,0,2,5,24,4,-3,3,-4,1,Reload Speed,1,Defense,2,Gathering,-3,Health,3,,,Tetsukabra Scale+,3,Tetsukabra Claw+,2,Rhenoplos Carapace,3,Slimy Oil+,3
+Nerusukyura Mail S,4,-1,1,0,1,5,48,-3,-3,3,3,2,Expert,1,Perception,3,Hunger,-3,Speed Setup,1,Poison,1,Nerusukyura Horn+,4,Nerusukyura Carapace,3,Nerusukyura Spike+,2,Monster Broth,5
+Nerusukyura Vest S,4,-1,1,0,2,5,24,-2,-2,4,4,3,Expert,1,Perception,2,Hunger,-3,Speed Setup,2,Poison,1,Nerusukyura Horn+,4,Nerusukyura Carapace,3,Nerusukyura Spike+,2,Monster Broth,5
+Khezu Mail S,5,-1,1,0,1,5,50,-5,1,1,1,2,Thunder Attack,2,Wide Range,3,Rec Speed,1,Faint,-1,,,Pale Khezu Steak,1,Khezu Hide,3,Monster Broth,6,Lifepowder,3
+Khezu Vest S,5,-1,1,0,2,5,25,-4,2,2,2,3,Thunder Attack,2,Wide Range,3,Rec Speed,1,Faint,-1,,,Pale Khezu Steak,1,Khezu Hide,3,Monster Broth,6,Lifepowder,3
+Khezu Mail U,5,-1,2,0,1,6,51,1,1,1,-5,2,Recovery Level,1,Wide Range,2,Rec Speed,-2,,,,,Alluring Hide,3,Pale Khezu Steak,1,Monster Hardbone,1,Lifepowder,3
+Khezu Vest U,5,-1,2,0,2,6,26,2,2,2,-4,3,Recovery Level,1,Wide Range,2,Rec Speed,-2,,,,,Alluring Hide,3,Pale Khezu Steak,1,Monster Hardbone,1,Lifepowder,3
+Rathian Mail S,5,-1,1,0,1,5,50,3,-2,-4,0,0,Health,1,Fire Attack,1,Recovery Level,4,Rec Speed,-3,,,Rathian Scale+,4,Rath Medulla,1,Rathian Plate,1,Firestone,2
+Rathian Vest S,5,-1,1,0,2,5,25,4,-1,-3,1,1,Health,1,Fire Attack,2,Recovery Level,4,Rec Speed,-2,,,Rathian Scale+,4,Rath Medulla,1,Rathian Plate,1,Firestone,2
+Rathian Heart Mail,5,-1,1,0,1,6,51,3,-2,-4,0,0,Potential,2,Fire Attack,3,Wind Res,3,Sense,-1,,,P.Rathian Scale+,3,P.Rathian Carapace,2,Carbalite Ore,4,Rathian Ruby,1
+Rathian Heart Vest,5,-1,1,0,2,6,26,4,-1,-3,1,1,Potential,2,Fire Attack,2,Wind Res,3,Sense,-1,,,P.Rathian Scale+,3,P.Rathian Carapace,2,Carbalite Ore,4,Rathian Ruby,1
+Golden Luna Mail,7,-1,2,0,1,7,81,2,-7,4,-4,0,Fate,2,Destroyer,1,Thunder Res,-2,Protection,2,,,G.Rathian Scale+,5,Rath Medulla,5,Rathian Plate,2,Fulcralite Ore,4
+Golden Luna Vest,7,-1,2,0,2,7,41,3,-6,5,-3,1,Fate,2,Destroyer,1,Thunder Res,-2,Protection,1,,,G.Rathian Scale+,5,Rath Medulla,5,Rathian Plate,2,Fulcralite Ore,4
+Rathian EX Mail,8,-1,1,0,1,7,50,3,-2,-4,0,0,Firm Defence,3,Handicraft,1,Recovery Level,3,Stamina Recovery,-2,,,Proof of Hope,1,Rathian Scale+,5,Rathian Plate,1,Union Ore,3
+Rathian EX Vest,8,-1,1,0,2,7,25,4,-1,-3,1,1,Firm Defence,3,Loading,1,Recovery Level,3,Stamina Recovery,-2,,,Proof of Hope,1,Rathian Scale+,5,Rathian Plate,1,Union Ore,3
+Basarios Mail S,5,-1,1,0,1,5,50,-1,1,-3,-2,1,Sheathing,1,Eating,3,Hunger,-2,Snow/Mud Res,2,,,Basarios Carapace,5,Firestone,1,Toxin Sac,3,Dragonite Ore,10
+Basarios Vest S,5,-1,1,0,2,5,25,0,2,-2,-1,2,Sheathing,1,Eating,3,Hunger,-2,Snow/Mud Res,2,,,Basarios Carapace,5,Firestone,1,Toxin Sac,3,Dragonite Ore,10
+Basarios Mail U,5,-1,1,0,1,6,53,0,0,1,-2,-3,Guard,3,Heat Res,1,Poison,2,Paralysis,-2,,,P.Basarios Carapace,5,Firecell Stone,1,P.Basarios Wing,1,Dragonite Ore,10
+Basarios Vest U,5,-1,1,0,2,6,27,1,1,2,-1,-2,Normal Up,2,Heat Res,1,Poison,2,Paralysis,-2,,,P.Basarios Carapace,5,Firecell Stone,1,P.Basarios Wing,1,Dragonite Ore,10
+Artian Mail S,5,-1,2,0,1,5,51,0,-3,3,-3,2,Free Element,1,Critical Draw,2,Guard Boost,4,,,,,Ancient Fragment,5,Fulcralite Ore,2,Rusted Fragment,2,Lightcrystal,6
+Artian Vest S,5,-1,2,0,2,5,26,1,-2,4,-2,3,Recoil,3,Rapid Fire,3,Loading,1,,,,,Ancient Fragment,5,Fulcralite Ore,2,Rusted Fragment,2,Lightcrystal,6
+Zinogre Mail S,5,-1,3,0,1,5,52,0,3,1,-2,-4,Gloves Off,1,Unscathed,2,Thunder Attack,1,Sense,-1,,,Zinogre Electrofur+,4,Zinogre Carapace,5,Zinogre Jasper,1,Thunderbug,20
+Zinogre Vest S,5,-1,3,0,2,5,26,1,4,2,-1,-3,Gloves Off,1,Evasion,2,Thunder Attack,1,Sense,-1,,,Zinogre Electrofur+,4,Zinogre Carapace,5,Zinogre Jasper,1,Thunderbug,20
+Zinogre Mail U,6,-1,1,0,1,6,53,0,-5,4,-4,0,Evasion,1,Fast Charge,3,Unscathed,1,Dragon Attack,2,Recovery Level,-2,S.Zinogre Dragonfur,4,S.Zinogre Carapace,5,S.Zinogre Jade,1,Dragonfell Berry,20
+Zinogre Vest U,6,-1,1,0,2,6,27,1,-4,5,-3,1,Evasion,2,Unscathed,1,Loading,3,Dragon Attack,2,Recovery Level,-1,S.Zinogre Dragonfur,4,S.Zinogre Carapace,5,S.Zinogre Jade,1,Dragonfell Berry,20
+Goa Mail S,5,-1,1,0,1,6,52,-5,-3,-2,3,2,Biology,2,Spirit,2,Fire Res,-2,Infection Res,3,,,Goa Magara Scale+,3,Goa Magara Onyx,1,Corrupted Dragonscale,5,Remobra Skin+,5
+Goa Vest S,5,-1,1,0,2,6,26,-4,-2,-1,4,3,Biology,2,Spirit,2,Fire Res,-2,Infection Res,3,,,Goa Magara Scale+,3,Goa Magara Onyx,1,Corrupted Dragonscale,5,Remobra Skin+,5
+Gobul Mail,5,-1,1,0,1,5,52,-2,-4,1,3,0,Expert,3,Eating,1,Rec Speed,-2,,,,,Gobul Hide+,3,Gobul Spike+,1,Slimy Oil+,3,Bird Wyvern Stone,3
+Gobul Vest,5,-1,1,0,2,5,26,-1,-3,2,4,1,Expert,3,Eating,1,Rec Speed,-2,,,,,Gobul Hide+,3,Gobul Spike+,1,Slimy Oil+,3,Bird Wyvern Stone,3
+Guild Knight Suit,8,-1,2,1,1,6,52,0,0,0,0,0,Handicraft,1,Carving,1,Wide Range,4,Sense,-1,,,Proof of Hope,1,Garuga Scale+,4,BasariosTears,1,,
+Guild Knight Vest,8,-1,2,1,2,6,26,1,1,1,1,1,Carving,1,Loading,1,Wide Range,4,Sense,-1,,,Proof of Hope,1,Garuga Scale+,4,BasariosTears,1,,
+Maid Suit,8,-1,2,2,1,6,52,0,0,0,0,0,Handicraft,1,Carving,1,Wide Range,4,Sense,-1,,,Proof of Hope,1,Garuga Scale+,4,BasariosTears,1,,
+Maid Vest,8,-1,2,2,2,6,26,1,1,1,1,1,Carving,1,Loading,1,Wide Range,4,Sense,-1,,,Proof of Hope,1,Garuga Scale+,4,BasariosTears,1,,
+Ranger's Girdle,6,-1,0,0,1,6,53,0,0,0,0,0,Handicraft,1,Carving,3,Guts,2,Recovery Level,3,Sense,-2,Wyvern Coin,2,Hunter King Coin,3,Lightning Sac,4,,
+Archer's Girdle,6,-1,0,0,2,6,27,1,1,1,1,1,Carving,3,Guts,2,Loading,1,Recovery Level,2,Sense,-3,Wyvern Coin,2,Hunter King Coin,3,Lightning Sac,4,,
+Generu Mail S,5,-1,1,0,1,5,53,-4,-1,3,3,-3,Artillery,3,Sharpness,2,Stamina Recovery,-3,,,,,Generu Shield+,4,Generu Tail,4,Generu Extract,1,Quality Sac,4
+Generu Vest S,5,-1,1,0,2,5,27,-3,0,4,4,-2,Reload Speed,3,Artillery,3,Stamina Recovery,-3,,,,,Generu Shield+,4,Generu Tail,4,Generu Extract,1,Quality Sac,4
+Zaboazagiru Mail S,5,-1,1,0,1,5,53,-4,-5,0,3,3,Destroyer,2,Ice Attack,1,Carnivore,3,Hunger,-2,,,Zaboazagiru Fin+,2,Zaboazagiru Scale+,2,Zaboazagiru Hide,3,Slimy Oil+,1
+Zaboazagiru Vest S,5,-1,1,0,2,5,27,-3,-4,1,4,4,Destroyer,2,Ice Attack,1,Carnivore,3,Hunger,-2,,,Zaboazagiru Fin+,2,Zaboazagiru Scale+,2,Zaboazagiru Hide,3,Slimy Oil+,1
+Garara Mail S,5,-1,1,0,1,5,55,3,0,3,-3,-5,Tranquilizer,2,Hearing,3,Whim,-3,Paralysis,1,,,Garara Hide+,6,Garara Rattle+,5,Garara Hide,3,Bird Wyvern Hide+,3
+Garara Vest S,5,-1,1,0,2,5,28,4,1,4,-2,-4,Tranquilizer,2,Hearing,3,Whim,-3,Paralysis,1,,,Garara Hide+,6,Garara Rattle+,5,Garara Hide,3,Bird Wyvern Hide+,3
+Tigrex Mail S,5,-1,1,0,1,5,55,2,-4,-2,-1,0,Attack,3,Sharpening Speed,-2,Psychic,2,Gluttony,2,,,Tigrex Claw+,4,Tigrex Carapace,6,Tigrex Scalp,1,,
+Tigrex Vest S,5,-1,1,0,2,5,28,3,-3,-1,0,1,Recoil,-2,Attack,3,Psychic,2,Gluttony,2,,,Tigrex Claw+,4,Tigrex Carapace,6,Tigrex Scalp,1,,
+Tigrex Mail U,6,-1,1,0,1,6,59,2,-2,-1,-4,0,Hearing,3,Sharpening Speed,-1,Perception,2,Eating,3,,,B.Tigrex Claw+,5,B.Tigrex Carapace,4,B.Tigrex Fang+,2,Firecell Stone,3
+Tigrex Vest U,6,-1,1,0,2,6,29,3,-1,0,-3,1,Recoil,-1,Hearing,3,Perception,2,Eating,3,,,B.Tigrex Claw+,5,B.Tigrex Carapace,4,B.Tigrex Fang+,2,Firecell Stone,3
+X-Zero Mail,8,-1,1,0,1,7,81,3,2,1,-5,-3,Hearing,3,Sharpening Speed,-2,Eating,3,,,,,R.Tigrex Blast Claw,4,R.Tigrex Carapace,6,Tigrex Agito,1,Akantor Gem,1
+X-Zero Vest,8,-1,1,0,2,7,41,4,3,2,-4,-2,Recoil,-2,Hearing,3,Eating,4,,,,,R.Tigrex Blast Claw,4,R.Tigrex Carapace,6,Tigrex Agito,1,Akantor Gem,1
+Tigrex EX Mail,8,-1,1,0,1,7,82,3,-5,-3,-1,0,Attack,3,Sharpening Speed,-2,Psychic,2,Gluttony,2,,,Seeker's Proof,1,Tigrex Claw+,5,Akantor Scale+,6,Sky Crystal,8
+Tigrex EX Vest,8,-1,1,0,2,7,41,4,-4,-2,0,1,Recoil,-2,Attack,3,Psychic,2,Gluttony,2,,,Seeker's Proof,1,Tigrex Claw+,5,Akantor Scale+,6,Sky Crystal,8
+Blango Mail,5,-1,1,0,1,5,55,-4,0,1,2,2,Attack,2,Heat Res,-2,Cold Res,2,Tremor Resistence,1,,,Blangonga Pelt+,3,Blangonga Whiskers,3,Bird Wyvern Hide+,3,Velociprey Hide+,3
+Blango Vest,5,-1,1,0,2,5,28,-3,1,2,3,3,Attack,2,Heat Res,-2,Cold Res,2,Tremor Resistence,1,,,Blangonga Pelt+,3,Blangonga Whiskers,3,Bird Wyvern Hide+,3,Velociprey Hide+,3
+Black Belt Mail,8,-1,1,0,1,6,55,2,2,2,2,2,Handicraft,2,Ranger,2,Hunger,-2,,,,,Rajang Pelt,1,Gravios Coin,2,Wyvern Coin,2,Wolf Coin,3
+Black Belt Vest,8,-1,1,0,2,6,28,3,3,3,3,3,Loading,2,Ranger,2,Hunger,-2,,,,,Rajang Pelt,1,Gravios Coin,2,Wyvern Coin,2,Wolf Coin,3
+Rathalos Mail S,5,-1,1,0,1,5,57,3,-2,-4,0,0,Attack,3,Fire Attack,2,Recovery Level,-2,,,,,Rathalos Scale+,5,Rathalos Shell,4,Rathalos Webbing,4,Union Ore,2
+Rathalos Vest S,5,-1,1,0,2,5,28,4,-1,-3,1,1,Attack,3,Fire Attack,2,Recovery Level,-2,,,,,Rathalos Scale+,5,Rathalos Shell,4,Rathalos Webbing,4,Union Ore,2
+Rathalos Soul Mail,6,-1,1,0,1,6,58,3,0,-4,0,-2,Expert,3,Health,-3,Hearing,2,Sharpness,1,,,A.Rathalos Carapace,3,A.Rathalos Scale+,3,Inferno Sac,3,Monster Hardbone,2
+Rathalos Soul Vest,6,-1,1,0,2,6,29,4,1,-3,1,-1,Expert,3,Health,-3,Hearing,2,Normal Up,1,,,A.Rathalos Carapace,3,A.Rathalos Scale+,3,Inferno Sac,3,Monster Hardbone,2
+Silver Sol Mail,7,-1,3,0,1,7,81,2,-4,4,-7,0,Tenderizer,1,Sharpness,2,Recovery Level,-2,,,,,S.Rathalos Carapace,5,S.Rathalos Scale+,6,Rathalos Wing,3,Monster Hardbone,3
+Silver Sol Vest,7,-1,3,0,2,7,41,3,-3,5,-6,1,Tenderizer,1,Pierce Up,2,Recovery Level,-2,,,,,S.Rathalos Carapace,5,S.Rathalos Scale+,6,Rathalos Wing,3,Monster Hardbone,3
+Rathalos EX Mail,8,-1,0,0,1,7,57,3,-2,-4,0,0,Precise Attack,2,Handicraft,1,Stamina Recovery,-4,Ranger,3,,,Proof of Hope,1,Rathalos Scale+,5,Rathalos Plate,1,Fulcralite Ore,3
+Rathalos EX Vest,8,-1,0,0,2,7,28,4,-1,-3,1,1,Precise Attack,2,Loading,1,Stamina Recovery,-4,Ranger,3,,,Proof of Hope,1,Rathalos Scale+,5,Rathalos Plate,1,Fulcralite Ore,3
+Gravios Mail S,5,-1,2,0,1,5,57,3,0,-3,-4,2,Defense,1,Guard,2,Stamina,-1,,,,,Gravios Carapace,5,Gravios Wing,2,Monster Bone+,2,Inferno Sac,2
+Gravios Vest S,5,-1,2,0,2,5,29,4,1,-2,-3,3,Recoil,2,Defense,1,Stamina,-1,,,,,Gravios Carapace,5,Gravios Wing,2,Monster Bone+,2,Inferno Sac,2
+Gravios Mail U,6,-1,3,0,1,6,58,3,1,1,-5,1,Defense,1,Guard Boost,1,Stamina,-1,,,,,B.Gravios Carapace,5,Gravios Carapace,2,Monster Hardbone,2,Gravios Medulla,1
+Gravios Vest U,6,-1,3,0,2,6,29,4,2,2,-4,2,Defense,1,Guard Boost,1,Stamina,-1,,,,,B.Gravios Carapace,5,Gravios Carapace,2,Monster Hardbone,2,Gravios Medulla,1
+Barioth Mail,5,-1,2,0,1,5,57,-5,-1,0,0,3,Evasion,2,Ice Attack,1,Constitution,2,Stamina Recovery,-2,,,Barioth Pelt+,4,Stoutbone,4,Freezer Sac,5,,
+Barioth Vest,5,-1,2,0,2,5,29,-4,0,1,1,4,Evasion,1,Ice Attack,1,Constitution,2,Stamina Recovery,-2,,,Barioth Pelt+,4,Stoutbone,4,Freezer Sac,5,,
+Brachydios Mail S,6,-1,1,0,1,6,57,3,0,0,-4,-2,Critical Draw,1,Spirit,3,Evasion,-2,Potential,1,Bomb Boost,2,Brachydios Carapace,4,Brachydios Ebonshell+,3,Brachydios Marrow,2,Monster Hardbone,2
+Brachydios Vest S,6,-1,1,0,2,6,28,4,1,1,-3,-1,Rapid Fire,1,Spirit,3,Evasion,-2,Potential,1,Bomb Boost,2,Brachydios Carapace,4,Brachydios Ebonshell+,3,Brachydios Marrow,2,Monster Hardbone,2
+Agnaktor Mail,6,-1,1,0,1,6,59,3,0,0,-5,-1,Guard,2,Potential,-2,Fire Attack,2,Flame Aura,3,,,Agnaktor Carapace,2,Agnaktor Fin+,1,Firecell Stone,1,,
+Agnaktor Vest,6,-1,1,0,2,6,30,4,1,1,-4,0,Potential,-2,Normal Up,1,Precision,2,Fire Attack,1,Flame Aura,3,Agnaktor Carapace,2,Agnaktor Fin+,1,Firecell Stone,1,,
+Garuga Mail S,6,-1,2,0,1,5,60,3,3,1,-4,-4,Fencing,-1,Expert,1,Hearing,4,Sharpness,2,,,Garuga Scale+,4,Garuga Carapace,4,Garuga Wing,4,Gendrome Tail,2
+Garuga Vest S,6,-1,2,0,2,5,30,4,4,2,-3,-3,Expert,1,Hearing,4,Stamina,-1,Pierce Up,2,,,Garuga Scale+,4,Garuga Carapace,4,Garuga Wing,4,Gendrome Tail,2
+Lagiacrus Mail,6,-1,1,0,1,6,60,-5,3,-1,1,-1,Free Element,1,Tenderizer,2,Status,-2,Fast Charge,2,,,Lagiacrus Lightning Carapace,2,Lagiacrus Sapphire,1,A.Rathalos Carapace,2,,
+Lagiacrus Vest,6,-1,1,0,2,6,30,-4,4,0,2,0,Free Element,3,Tenderizer,1,Status,-2,Fast Charge,1,,,Lagiacrus Lightning Carapace,2,Lagiacrus Sapphire,1,A.Rathalos Carapace,2,,
+Kirin Vest S,8,-1,1,0,1,6,60,-3,5,3,-3,-1,Free Element,2,Blight Res,1,Fate,-2,Elemental Attack,1,,,Kirin Hide+,4,Kirin Hide,3,BasariosTears,1,Novacrystal,1
+Kirin Cape S,8,-1,1,0,2,6,30,-2,6,4,-2,0,Free Element,2,Blight Res,2,Fate,-2,Elemental Attack,2,,,Kirin Hide+,4,Kirin Hide,3,BasariosTears,1,Novacrystal,1
+Kirin Vest U,8,-1,2,0,1,7,65,-3,-1,3,-3,6,Blight Res,2,Fate,-2,Ice Attack,1,Elemental Attack,1,,,Kirin Icetail,3,Kirin Hide+,6,Elder Dragon Blood,3,Fine Beak,1
+Kirin Cape U,8,-1,2,0,2,7,33,-2,0,4,-2,7,Blight Res,2,Fate,-2,Ice Attack,1,Elemental Attack,1,,,Kirin Icetail,3,Kirin Hide+,6,Elder Dragon Blood,3,Fine Beak,1
+Yukumo Dougi (Sky),8,-1,2,0,1,6,60,-1,2,0,0,0,Handicraft,1,Sharpening Speed,1,Recovery Level,2,Protection,2,,,Amadyura Hide,3,Star Fragment,1,Amadyura Shield,3,,
+Yukumo Dougi (Earth),8,-1,2,0,2,6,30,0,3,1,1,1,Reload Speed,1,Loading,1,Recovery Level,2,Protection,2,,,Amadyura Hide,3,Star Fragment,1,Amadyura Shield,3,,
+Sailor Suit,8,-1,2,2,1,6,60,0,0,0,2,-2,Fate,2,Wide Range,4,Sense,-1,,,,,Proof of Hope,1,Hunter King Coin,2,Wyvern Coin,5,Pinnacle Coin,5
+Sailor Vest,8,-1,2,2,2,6,30,1,1,1,3,-1,Fate,2,Wide Range,4,Sense,-1,,,,,Proof of Hope,1,Hunter King Coin,2,Wyvern Coin,5,Pinnacle Coin,5
+Vangis Mail,7,-1,0,0,1,6,62,0,-4,-4,0,1,Attack,4,Sharpness,1,Eating,4,Hunger,-2,,,Deviljho Jaw,5,Deviljho Claw,4,Deviljho Hide,5,Zinogre Plate,1
+Vangis Vest,7,-1,0,0,2,6,31,1,-3,-3,1,2,Recoil,2,Attack,3,Eating,4,Hunger,-2,,,Deviljho Jaw,5,Deviljho Claw,4,Deviljho Hide,5,Zinogre Plate,1
+Greed Mail,7,-1,0,0,1,7,64,-1,-3,-1,-1,-1,Attack,4,Sharpness,3,Eating,2,Hunger,-2,,,Black Scarskin,5,Deviljho Claw,4,Deviljho Jaw,2,Elder Dragon Blood,1
+Greed Vest,7,-1,0,0,2,7,32,0,-2,0,0,0,Recoil,3,Attack,3,Eating,2,Hunger,-2,,,Black Scarskin,5,Deviljho Claw,4,Deviljho Jaw,2,Elder Dragon Blood,1
+Zannyo Doate Ha,7,-1,0,1,1,7,64,3,-4,-4,2,3,Critical Draw,1,Unshakable,1,Expert,4,Potential,-3,,,Mohran Rockskin+,6,Earth Dragonstone,4,Elder Dragon Blood,1,Proof of Courage+,1
+Shinonome Doate Ha,7,-1,1,1,2,7,32,4,-3,-3,3,4,Reload Speed,-3,Rapid Fire,1,Unshakable,1,Pierce Up,1,,,Mohran Rockskin+,6,Earth Dragonstone,4,Elder Dragon Blood,1,Proof of Courage+,1
+Tokiwa Muneate Ha,7,-1,0,2,1,7,64,3,-4,-4,2,3,Critical Draw,1,Unshakable,1,Expert,4,Potential,-3,,,Mohran Rockskin+,6,Earth Dragonstone,4,Elder Dragon Blood,1,Proof of Courage+,1
+Yachiyo Muneate Ha,7,-1,1,2,2,7,32,4,-3,-3,3,4,Reload Speed,-3,Rapid Fire,1,Unshakable,1,Pierce Up,1,,,Mohran Rockskin+,6,Earth Dragonstone,4,Elder Dragon Blood,1,Proof of Courage+,1
+Yamato Doate,8,-1,1,1,1,7,67,3,0,-4,1,-4,Defense,2,Expert,4,Potential,-2,Fast Charge,1,,,Proof of Hope,1,Mohran Rockskin+,6,Rough Dragonhorn+,4,Elder Dragon Blood,1
+Mutsu Doate,8,-1,1,1,2,7,34,4,1,-3,2,-3,Reload Speed,-2,Recoil,1,Defense,4,Pierce Up,2,,,Proof of Hope,1,Mohran Rockskin+,6,Rough Dragonhorn+,4,Elder Dragon Blood,1
+Hinata Muneate,8,-1,1,2,1,7,67,3,0,-4,1,-4,Defense,2,Expert,4,Potential,-2,Fast Charge,1,,,Proof of Hope,1,Mohran Rockskin+,6,Rough Dragonhorn+,4,Elder Dragon Blood,1
+Amagi Muneate,8,-1,1,2,2,7,34,4,1,-3,2,-3,Reload Speed,-2,Recoil,1,Defense,4,Pierce Up,2,,,Proof of Hope,1,Mohran Rockskin+,6,Rough Dragonhorn+,4,Elder Dragon Blood,1
+Arc Mail S,7,-1,1,1,1,7,65,-4,0,-6,4,3,Firm Defence,2,Gloves Off,2,Fire Res,-2,Infection Res,2,,,Shagaru Scale+,3,Shagaru Opal,1,Gleaming Dragonscale,1,Union Ore,3
+Arc Vest S,7,-1,1,1,2,7,33,-3,1,-5,5,4,Firm Defence,2,Gloves Off,2,Fire Res,-2,Infection Res,2,,,Shagaru Scale+,3,Shagaru Opal,1,Gleaming Dragonscale,1,Union Ore,3
+Philia Mail S,7,-1,1,2,1,7,65,-4,0,-6,4,3,Firm Defence,2,Gloves Off,2,Fire Res,-2,Infection Res,2,,,Shagaru Scale+,3,Shagaru Opal,1,Gleaming Dragonscale,1,Union Ore,3
+Philia Vest S,7,-1,1,2,2,7,33,-3,1,-5,5,4,Firm Defence,2,Gloves Off,2,Fire Res,-2,Infection Res,2,,,Shagaru Scale+,3,Shagaru Opal,1,Gleaming Dragonscale,1,Union Ore,3
+Golden Haori,7,-1,0,0,1,7,65,2,3,2,1,-6,Handicraft,1,Gloves Off,3,Spirit,1,Stamina,-2,,,Rajang Horn+,1,Golden Pelt,1,Rajang Pelt,4,Daora Dragonscale,2
+Puppet Master Costume,7,-1,0,0,2,7,33,3,4,3,2,-5,Reload Speed,1,Gloves Off,3,Spirit,1,Stamina,-2,,,Rajang Horn+,1,Golden Pelt,1,Rajang Pelt,4,Daora Dragonscale,2
+Rapture Haori,7,-1,2,0,1,7,81,2,4,2,1,-7,Gloves Off,2,Spirit,1,Stamina,-2,,,,,Rajang Fur,3,Rajang Soul,1,Rajang Fang+,2,G.Rathian Scale+,2
+Heartbeat Costume,7,-1,2,0,2,7,41,3,5,3,2,-6,Gloves Off,2,Spirit,1,Stamina,-2,,,,,Rajang Fur,3,Rajang Soul,1,Rajang Fang+,2,G.Rathian Scale+,2
+Dark Akantor Aegis,7,-1,1,0,1,7,65,4,-3,-5,0,2,Handicraft,2,Expert,3,Hearing,1,Sharpness,-2,,,Akantor Jaw,3,Akantor Spike,2,Akantor Scale+,4,Rathalos Ruby,1
+Dark Akantor Plate,7,-1,1,0,2,7,33,5,-2,-4,1,3,Reload Speed,-2,Expert,3,Hearing,1,Loading,2,,,Akantor Jaw,3,Akantor Spike,2,Akantor Scale+,4,Rathalos Ruby,1
+Dark Ukanlos Aegis,8,-1,1,0,1,7,67,-5,-3,-2,0,4,Edgemaster,2,Expert,-4,Potential,2,Snow/Mud Res,1,,,Ukanlos Jaw,3,Ukanlos Carapace,2,Gleaming Dragonscale,6,,
+Dark Ukanlos Plate,8,-1,1,0,2,7,34,-4,-2,-1,1,5,Steadyhand,2,Expert,-4,Potential,2,Snow/Mud Res,1,,,Ukanlos Jaw,3,Ukanlos Carapace,2,Gleaming Dragonscale,6,,
+Kaiser Mail,7,-1,2,0,1,7,68,4,1,-2,-6,-2,Biology,1,Free Element,1,Fencing,2,Cold Res,-3,,,Fire Dragon Powder,2,Teostra Carapace,4,Firecell Stone,3,Elder Dragon Blood,3
+Kaiser Vest,7,-1,2,0,2,7,34,5,2,-1,-5,-1,Biology,1,Free Element,1,Reload Speed,3,Cold Res,-2,,,Fire Dragon Powder,2,Teostra Carapace,4,Firecell Stone,3,Elder Dragon Blood,3
+Kaiser EX Mail,8,-1,0,0,1,7,82,5,2,-4,-7,-2,Free Element,1,Expert,5,Cold Res,-2,,,,,Teostra Ticket,1,Teostra Carapace,6,Amadyura Shield,3,Elder Dragonbone,3
+Kaiser EX Vest,8,-1,0,0,2,7,41,6,3,-3,-6,-1,Free Element,1,Expert,5,Cold Res,-2,,,,,Teostra Ticket,1,Teostra Carapace,6,Amadyura Shield,3,Elder Dragonbone,3
+Empress Mail,7,-1,0,0,1,7,68,4,1,-2,-2,-6,Handicraft,1,Expert,3,Guard,2,Fire Attack,2,Cold Res,-3,Lunastra Mane,2,Fire Dragon Scale,6,Teostra Horn+,1,Fire Dragon Gem,1
+Empress Vest,7,-1,0,0,2,7,34,5,2,-1,-1,-5,Expert,3,Guard Boost,2,Loading,1,Normal Up,2,Cold Res,-3,Lunastra Mane,2,Fire Dragon Scale,6,Teostra Horn+,1,Fire Dragon Gem,1
+Kushala Cista,7,-1,1,0,1,7,68,-2,-5,-6,2,5,Handicraft,1,Fast Charge,1,Heat Res,4,Poison,-2,,,Daora Carapace,4,Daora Webbing,2,Carbalite Ore,4,Elder Dragon Blood,2
+Kushala Vise,7,-1,1,0,2,7,34,-1,-4,-5,3,6,Fast Charge,1,Loading,1,Heat Res,4,Poison,-2,,,Daora Carapace,4,Daora Webbing,2,Carbalite Ore,4,Elder Dragon Blood,2
+Kushala EX Cista,8,-1,0,0,1,7,82,-3,-6,-7,3,6,Fast Charge,1,Fire Res,5,Heat Res,4,Poison,-2,,,Daora Ticket,1,Daora Claw+,4,S.Rathalos Scale+,6,Elder Dragonbone,3
+Kushala EX Vise,8,-1,0,0,2,7,41,-2,-5,-6,4,7,Fast Charge,1,Fire Res,5,Heat Res,4,Poison,-2,,,Daora Ticket,1,Daora Claw+,4,S.Rathalos Scale+,6,Elder Dragonbone,3
+Demon Robe,8,-1,1,0,1,7,68,2,0,-2,2,-2,Fencing,2,Blight Res,1,Potential,-2,Protection,2,,,Ancient Dragonmoss,2,Yamatsukami Fluid,4,Elder Dragonbone,5,Proof of Hope,1
+Carnage Robe,8,-1,1,0,2,7,34,3,2,-1,4,-1,Blight Res,1,Potential,-2,Loading,2,Protection,2,,,Ancient Dragonmoss,2,Yamatsukami Fluid,4,Elder Dragonbone,5,Proof of Hope,1
+Rebellion Mail,8,-1,1,0,1,7,69,3,-2,-3,3,-2,Edgemaster,3,Fury,1,Attack,-4,,,,,Amadyura Hide,5,Amadyura Shield,3,Amadyura Scale,2,Shagaru Opal,1
+Riot Vest,8,-1,1,0,2,7,35,4,-1,-2,4,-1,Steadyhand,3,Fury,1,Attack,-4,,,,,Amadyura Hide,5,Amadyura Shield,3,Amadyura Scale,2,Shagaru Opal,1
+Mizuha Muneate,8,-1,1,0,1,7,69,-4,0,-1,3,4,Free Element,2,Hearing,1,Wind Res,4,Heat Res,-2,,,Chameleos Hide+,2,Chameleos Tail,1,Firecell Stone,2,,
+Extravagant Muneate,8,-1,1,0,2,7,35,-3,1,0,4,5,Free Element,2,Hearing,1,Wind Res,4,Heat Res,-2,,,Chameleos Hide+,2,Chameleos Tail,1,Firecell Stone,2,,
+Shinobi Robe (Sky),8,-1,2,0,1,7,81,2,4,2,-6,-3,Defense,-2,Evasion,2,Elemental Attack,2,,,,,Proof of Hope+,1,Proof of Courage+,1,Rare Scarab,3,Shagaru Scale+,5
+Shinobi Robe (Earth),8,-1,2,0,2,7,41,3,5,3,-5,-2,Defense,-2,Evasion,2,Elemental Attack,2,,,,,Proof of Hope+,1,Proof of Courage+,1,Rare Scarab,3,Shagaru Scale+,5
+Kongo Doate,8,-1,1,0,1,7,82,-2,2,-2,3,2,Fate,2,Guard,2,Fire Res,-2,Tremor Resistence,2,,,Gaoren Claw+,1,Daora Carapace,3,Rare Scarab,2,,
+Fudou Doate,8,-1,1,0,2,7,41,0,3,-1,5,3,Recoil,2,Fate,2,Fire Res,-2,Tremor Resistence,2,,,Gaoren Claw+,1,Daora Carapace,3,Rare Scarab,2,,
+Dragon Hide,8,-1,2,0,1,7,84,-3,2,-6,2,-1,Tenderizer,2,Expert,-3,Sharpness,2,,,,,Fatalis Horn,2,Fatalis Shell,4,Fatalis Scale,4,Rathalos Ruby,1
+Dragon Skin,8,-1,2,0,2,7,42,-2,3,-5,3,0,Tenderizer,2,Expert,-3,Pierce Up,2,,,,,Fatalis Horn,2,Fatalis Shell,4,Fatalis Scale,4,Rathalos Ruby,1
+Helios Mail,8,-1,1,1,1,7,84,0,-2,-5,3,1,Hearing,1,Destroyer,2,Water Attack,3,Protection,-2,,,Ceadeus Hide,2,Crooked Horn,1,Generu Extract+,1,,
+Helios Vest,8,-1,1,1,2,7,42,1,-1,-4,4,2,Hearing,2,Destroyer,2,Water Attack,3,Protection,-2,,,Ceadeus Hide,2,Crooked Horn,1,Generu Extract+,1,,
+Selene Mail,8,-1,1,2,1,7,84,0,-2,-5,3,1,Hearing,1,Destroyer,2,Water Attack,3,Protection,-2,,,Ceadeus Hide,2,Crooked Horn,1,Generu Extract+,1,,
+Selene Vest,8,-1,1,2,2,7,42,1,-1,-4,4,2,Hearing,2,Destroyer,2,Water Attack,3,Protection,-2,,,Ceadeus Hide,2,Crooked Horn,1,Generu Extract+,1,,
+Escadora Soul,8,-1,0,0,1,7,86,-3,3,-2,-2,3,Gloves Off,2,Blight Res,2,Evade Distance,1,Elemental Attack,3,Faint,-2,Alatreon Plate,2,Alatreon Webbing,3,Akantor Gem,1,,
+Escadora Seele,8,-1,0,0,2,7,43,-2,4,-1,-1,4,Gloves Off,3,Blight Res,1,Evade Distance,1,Elemental Attack,2,Faint,-2,Alatreon Plate,2,Alatreon Webbing,3,Akantor Gem,1,,
+Chakra Necklace,4,-1,3,0,0,5,18,3,0,1,-3,0,,,,,,,,,,,Carbalite Ore,3,Novacrystal,2,,,,
+Kirin EX Vest U,7,-1,2,0,1,7,1,0,1,3,0,6,Free Element,2,Blight Res,1,Fate,-2,Elemental Attack,2,,,Phantom Ticket,1,Kirin Hide+,4,BasariosTears,2,Guild Ticket+,1
+Kirin EX Cape U,7,-1,2,0,2,7,1,1,2,4,1,7,Free Element,2,Blight Res,2,Fate,-2,Elemental Attack,1,,,Phantom Ticket,1,Kirin Hide+,4,BasariosTears,2,Guild Ticket+,1
+Captain Suit J,4,-1,0,0,1,7,26,-3,-3,-3,-3,-3,Carving,3,Fate,2,Tranquilizer,2,Protection,-3,,,Pirate J Ticket,1,S.Zinogre Carapace,5,S.Zinogre Shell,2,Dracophage Bug,3
+Captain Vest J,4,-1,0,0,2,7,13,-2,-2,-2,-2,-2,Carving,3,Fate,1,Tranquilizer,2,Protection,-3,,,Pirate J Ticket,1,S.Zinogre Carapace,5,S.Zinogre Shell,2,Dracophage Bug,3
+Camouflage Shirt,4,-1,0,0,1,7,26,2,2,2,2,2,Carving,10,,,,,,,,,MH Club Certificate,3,Congalala Pelt+,3,Lagombi Ear+,2,Rage Crystal,2
+Camouflage Jacket,4,-1,0,0,2,7,13,3,3,3,3,3,Carving,10,,,,,,,,,MH Club Certificate,3,Congalala Pelt+,3,Lagombi Ear+,2,Rage Crystal,2
+Ingot EX Mail,4,-1,2,0,1,7,41,-2,2,0,-2,0,Artillery,2,Guard Boost,2,Sheathing,1,Whim,-2,,,Frog/Snake Ticket,1,Fulcralite Ore,20,Wyvern Stone,4,Guild Ticket S,1
+Ingot EX Vest,4,-1,2,0,2,7,21,-1,3,1,-1,1,Recoil,1,Artillery,2,Pellet Up,2,Whim,-2,,,Frog/Snake Ticket,1,Fulcralite Ore,20,Wyvern Stone,4,Guild Ticket S,1
+Legend Suit J,4,-1,0,0,1,7,44,-4,-4,-4,-4,-4,Greedy,3,Carving,2,Protection,-4,,,,,Legend J Pirate Hat,1,Fire Dragon Claw+,4,Teostra Carapace,4,Fire Dragon Gem,1
+Legend Vest J,4,-1,0,0,2,7,22,-3,-3,-3,-3,-3,Greedy,3,Carving,2,Protection,-4,,,,,Legend J Pirate Hat,1,Fire Dragon Claw+,4,Teostra Carapace,4,Fire Dragon Gem,1
+Bouya Jacket,4,-1,0,0,1,7,44,1,1,1,1,1,Attack,5,Stamina Recovery,3,Sense,-3,,,,,Lily Proof,2,Guild Ticket S,1,Ioprey Scale+,6,Iodrome Head,3
+Bouya Jumper,4,-1,0,0,2,7,22,2,2,2,2,2,Attack,5,Stamina Recovery,3,Sense,-3,,,,,Lily Proof,2,Guild Ticket S,1,Ioprey Scale+,6,Iodrome Head,3
+UNIQLO Jumper,4,-1,1,0,1,7,44,-3,0,0,1,4,Hearing,2,Evade Distance,3,Eating,-2,Cold Res,2,,,UNIQLO Ticket,2,Tigrex Agito,3,Rage Crystal,2,Rage Crystal Fragment,2
+UNIQLO Parka,4,-1,1,0,2,7,22,-2,1,1,2,5,Hearing,2,Evade Distance,3,Eating,-2,Cold Res,2,,,UNIQLO Ticket,2,Tigrex Agito,3,Rage Crystal,2,Rage Crystal Fragment,2
+Star Rook Mail,4,-1,3,0,1,7,52,0,0,0,0,0,Spirit,1,Unshakable,1,Rider,3,,,,,Studio Pass G,1,G.Rathian Scale+,3,A.Rathalos Carapace,4,Rath Gleem,2
+Star Rook Vest,4,-1,3,0,2,7,26,1,1,1,1,1,Spirit,1,Unshakable,1,Rider,2,,,,,Studio Pass G,1,G.Rathian Scale+,3,A.Rathalos Carapace,4,Rath Gleem,2
+Zodias Mail,4,-1,1,0,1,7,52,1,1,1,1,1,Finesse,3,Fencing,2,Rider,-3,,,,,Black Heaven Stardust,1,Daora Claw+,2,Daora Webbing,2,Guild Ticket+,1
+Zodias Vest,4,-1,1,0,2,7,26,2,2,2,2,2,Finesse,3,Loading,2,Rider,-3,,,,,Black Heaven Stardust,1,Daora Claw+,2,Daora Webbing,2,Guild Ticket+,1
+Hero's Clothes,5,-1,1,0,1,7,52,2,2,2,2,2,Free Element,2,Fate,1,Health,4,Hunger,-3,,,Triforce,1,Rathian Webbing,3,Rathian Carapace,4,Kirin Thundertail,2
+Hero's Garments,5,-1,1,0,2,7,26,3,3,3,3,3,Free Element,2,Fate,1,Health,4,Hunger,-3,,,Triforce,1,Rathian Webbing,3,Rathian Carapace,4,Kirin Thundertail,2
+Ogre's Jacket,4,-1,0,0,1,7,52,6,6,6,6,6,Spirit,4,Potential,2,Sense,-5,,,,,Ogre's Proof,1,Deviljho Hide,3,Deviljho Scale,2,Deviljho Gem,1
+Ogre's Vest,4,-1,0,0,2,7,26,7,7,7,7,7,Spirit,4,Potential,2,Sense,-5,,,,,Ogre's Proof,1,Deviljho Hide,3,Deviljho Scale,2,Deviljho Gem,1
+Artian EX Mail,8,-1,1,0,1,7,52,0,-3,3,-3,2,Critical Draw,2,Guard Boost,1,Sharpening Speed,-3,Stamina Recovery,3,,,Rajang Ticket,1,Ancient Fragment,6,Rajang Soul,1,Guild Ticket+,1
+Artian EX Vest,8,-1,1,0,2,7,26,1,-2,4,-2,3,Reload Speed,-3,Recoil,1,Loading,2,Precision,3,,,Rajang Ticket,1,Ancient Fragment,6,Rajang Soul,1,Guild Ticket+,1
+Goa EX Mail,8,-1,1,0,1,7,58,-5,-3,-2,3,2,Biology,2,Firm Defence,2,Spirit,2,Fire Res,-3,,,Goa Magara Ticket,1,Goa Magara Carapace,5,Shagaru Opal,2,Guild Ticket+,1
+Goa EX Vest,8,-1,1,0,2,7,29,-4,-2,-1,4,3,Biology,2,Firm Defence,2,Spirit,2,Fire Res,-3,,,Goa Magara Ticket,1,Goa Magara Carapace,5,Shagaru Opal,2,Guild Ticket+,1
+Rebellion EX Mail,8,-1,1,0,1,7,81,3,-2,-3,3,-2,Fury,1,Precise Attack,2,Attack,-4,Infection Res,1,,,Amadyura Ticket,1,Amadyura Shield,4,Shagaru Opal,3,Guild Ticket+,2
+Riot EX Vest,8,-1,1,0,2,7,41,4,-1,-2,4,-1,Fury,1,Precise Attack,2,Attack,-4,Infection Res,1,,,Amadyura Ticket,1,Amadyura Shield,4,Shagaru Opal,3,Guild Ticket+,2
+Miralis Hide,8,-1,0,0,1,7,86,2,1,-7,-1,-3,Fury,1,Defense,-3,Sharpness,2,Stamina,3,,,C.Fatalis Horn,2,C.Fatalis Shell,5,C.Fatalis Scale,4,S.Zinogre Jade,1
+Miralis Skin,8,-1,0,0,2,7,43,3,2,-6,0,-2,Fury,1,Defense,-3,Stamina,3,Normal Up,2,,,C.Fatalis Horn,2,C.Fatalis Shell,5,C.Fatalis Scale,4,S.Zinogre Jade,1

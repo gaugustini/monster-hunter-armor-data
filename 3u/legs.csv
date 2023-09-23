@@ -1,0 +1,335 @@
+name,hr,village,slots,gender,type,rarity,defense,fire,thunder,dragon,water,ice,skill_one,skill_one_points,skill_two,skill_two_points,skill_three,skill_three_points,skill_four,skill_four_points,skill_five,skill_five_points,material_one,amount_one,material_two,amount_two,material_three,amount_three,material_four,amount_four
+Leather Pants,1,1,0,0,0,1,1,-1,0,1,0,0,Gathering,2,Speed Gatherer,2,Whim,3,,,,,Warm Pelt,2,,,,,,
+Piscine Breeches,1,1,1,0,0,1,3,-2,-3,0,3,2,CurrentRes,1,Swimming,8,,,,,,,Hydro Hide,2,Big Fin,1,,,,
+Chainmail Pants,1,1,1,0,0,1,4,2,-2,0,1,1,Health,2,Hunger,2,Combo Rate,2,,,,,Iron Ore,2,Warm Pelt,2,,,,
+Yukumo Hakama,1,-1,0,0,0,1,2,-1,1,0,0,0,Protection,2,Sense,2,Wide-Range,3,,,,,,,,,,,,
+Loc Lac Boots,1,1,0,0,0,1,5,2,1,0,-3,0,Dungmaster,3,Hunger,3,Transportr,5,,,,,Altaroth Jaw,3,Altaroth Stomach,2,Ice Crystal,3,,
+Hunter's Greaves,1,1,0,0,1,1,6,0,-3,0,1,0,Poison,-1,Psychic,3,Ranger,3,,,,,Iron Ore,1,Earth Crystal,1,Monster Bone S,2,,
+Hunter's Leggings,1,1,0,0,2,1,3,1,-2,1,2,1,Poison,-1,Psychic,3,Ranger,3,,,,,Iron Ore,1,Earth Crystal,1,Monster Bone S,2,,
+Alloy Greaves,1,1,0,0,1,1,6,-1,-2,0,1,-1,Torso Up,1,,,,,,,,,Machalite Ore,4,Earth Crystal,2,Iron Ore,2,,
+Alloy Leggings,1,1,0,0,2,1,3,0,-1,1,2,0,Torso Up,1,,,,,,,,,Machalite Ore,4,Earth Crystal,2,Iron Ore,2,,
+Bone Greaves,1,2,1,0,1,1,7,1,-1,0,0,-2,Sleep,-1,KO,2,Maestro,4,Perception,1,,,Monster Bone M,2,Bone,2,Mystery Bone,4,,
+Bone Leggings,1,2,1,0,2,1,4,2,0,1,1,-1,Sleep,-1,KO,2,Maestro,3,Perception,1,,,Monster Bone M,2,Bone,2,Mystery Bone,4,,
+Bnahabra Boots,1,3,0,0,1,2,9,-4,2,2,-1,-1,Paralysis,2,Attack,-1,Sheathing,2,Status,3,,,Bnahabra Shell,2,Bnahabra Wing,3,Killer Beetle,2,Carpenterbug,3
+Bnahabra Pants,1,3,0,0,2,2,5,-3,3,3,0,0,Paralysis,2,Attack,-1,Sheathing,1,Status,3,,,Bnahabra Shell,2,Bnahabra Wing,3,Killer Beetle,2,Carpenterbug,3
+Rhenoplos Greaves,1,2,0,0,1,2,9,1,-1,1,-1,-1,Mud/Snow,3,KO,3,Ice Res,-1,Artillery,3,,,Rhenoplos Shell,2,Monster Bone S,6,Ice Crystal,2,,
+Rhenoplos Leggings,1,2,0,0,2,2,5,2,0,2,0,0,Mud/Snow,3,KO,2,Ice Res,-1,Artillery,3,,,Rhenoplos Shell,2,Monster Bone S,6,Ice Crystal,2,,
+Jaggi Greaves,1,1,1,0,1,2,10,-2,0,1,0,0,Stun,3,Attack,3,LastingPwr,-1,Gluttony,1,,,Jaggi Hide,4,Jaggi Scale,3,Monster Bone S,4,Machalite Ore,2
+Jaggi Leggings,1,1,1,0,2,2,5,-1,1,2,1,1,Stun,3,Attack,2,LastingPwr,-1,Gluttony,1,,,Jaggi Hide,4,Jaggi Scale,3,Monster Bone S,4,Machalite Ore,2
+Arzuros Greaves,1,2,0,0,1,2,11,-2,0,1,1,-1,Torso Up,1,,,,,,,,,Arzuros Brace,2,Arzuros Pelt,2,Bnahabra Shell,2,Flashbug,3
+Arzuros Leggings,1,2,0,0,2,2,6,-1,1,2,2,0,Torso Up,1,,,,,,,,,Arzuros Brace,2,Arzuros Pelt,2,Bnahabra Shell,2,Flashbug,3
+Wroggi Greaves,1,3,1,0,1,2,12,1,0,1,-1,-2,Poison,4,Stun,-1,Status,1,Sharpness,1,TeamPlayer,2,G.Wroggi Brace,2,G.Wroggi Hide,2,Wroggi Hide,3,Carpenterbug,3
+Wroggi Leggings,1,3,1,0,2,2,6,2,1,2,0,-1,Poison,3,Stun,-1,Status,1,Normal Up,1,TeamPlayer,2,G.Wroggi Brace,2,G.Wroggi Hide,2,Wroggi Hide,3,Carpenterbug,3
+Qurupeco Greaves,1,3,1,0,1,2,14,2,0,0,-1,-3,Wind Res,2,Maestro,3,Wide-Range,3,Eating,-1,,,Qurupeco Scale,2,Vivid Feather,1,Monster Bone S,4,Killer Beetle,2
+Qurupeco Leggings,1,3,1,0,2,2,7,3,1,1,0,-2,Wind Res,2,Pellet Up,3,Wide-Range,2,Eating,-1,,,Qurupeco Scale,2,Vivid Feather,1,Monster Bone S,4,Killer Beetle,2
+Ludroth Greaves,1,3,1,0,1,2,14,-3,-1,1,2,-1,Heat Res,2,Stamina,2,Water Atk,2,ThunderRes,-1,Oxygen,2,R.Ludroth Claw,2,R.Ludroth Scale,3,Spongy Hide,2,Carpenterbug,3
+Ludroth Leggings,1,3,1,0,2,2,7,-2,0,2,3,0,Heat Res,2,Stamina,2,Water Atk,2,ThunderRes,-1,Oxygen,2,R.Ludroth Claw,2,R.Ludroth Scale,3,Spongy Hide,2,Carpenterbug,3
+Baggi Greaves,1,4,0,0,1,2,15,-2,0,0,0,1,Sleep,3,Rec Speed,3,Fire Atk,-1,Ice Atk,1,TeamLeader,2,Baggi Hide,4,Baggi Scale,3,Monster Bone S,6,Lightcrystal,1
+Baggi Leggings,1,4,0,0,2,2,8,-1,1,1,1,2,Sleep,2,Rec Speed,3,Fire Atk,-2,Ice Atk,1,TeamLeader,3,Baggi Hide,4,Baggi Scale,3,Monster Bone S,6,Lightcrystal,1
+Lagombi Greaves,1,4,2,0,1,2,15,-2,-1,0,0,1,Heat Res,-2,Cold Res,1,Evade Dist,2,LastingPwr,1,,,Lagombi Pelt,2,Lagom Plastron,2,Lagombi Claw,1,Carpenterbug,8
+Lagombi Leggings,1,4,2,0,2,2,8,-1,0,1,1,2,Heat Res,-2,Cold Res,1,Evade Dist,2,LastingPwr,1,,,Lagombi Pelt,2,Lagom Plastron,2,Lagombi Claw,1,Carpenterbug,8
+Barroth Greaves,1,3,1,0,1,2,16,4,1,0,-4,-2,Attack,2,Defense,3,Guard,1,Hunger,-2,,,Barroth Shell,2,Barroth Tail,1,Monster Bone L,2,Rhenoplos Shell,3
+Barroth Leggings,1,3,1,0,2,2,8,5,2,1,-3,-1,Attack,2,Defense,3,Precision,1,Hunger,-2,,,Barroth Shell,2,Barroth Tail,1,Monster Bone L,2,Rhenoplos Shell,3
+Volvidon Greaves,2,5,0,0,1,2,16,1,0,1,-3,-1,Torso Up,1,,,,,,,,,Volvidon Claw,2,Volvidon Shell,2,Volvi Rickrack,1,Earth Crystal,4
+Volvidon Leggings,2,5,0,0,2,2,8,2,1,2,-2,0,Torso Up,1,,,,,,,,,Volvidon Claw,2,Volvidon Shell,2,Volvi Rickrack,1,Earth Crystal,4
+Gobul Greaves,1,4,1,0,1,2,17,-2,-3,1,2,0,Rec Speed,-2,Expert,2,Eating,2,Swimming,3,,,Gobul Spike,2,Gobul Hide,4,Gobul Fin,1,Monster Bone M,5
+Gobul Leggings,1,4,1,0,2,2,9,-1,-2,2,3,1,Rec Speed,-2,Expert,1,Eating,2,Swimming,2,,,Gobul Spike,2,Gobul Hide,4,Gobul Fin,1,Monster Bone M,5
+Rathian Greaves,1,4,2,0,1,2,18,2,-2,-3,0,0,Health,2,Rec Speed,-2,Fire Atk,1,Rec Level,1,,,Rathian Shell,3,Rathian Scale,4,Monster Bone L,3,Lightcrystal,1
+Rathian Leggings,1,4,2,0,2,2,9,3,-1,-2,1,1,Health,2,Rec Speed,-2,Fire Atk,1,Rec Level,1,,,Rathian Shell,3,Rathian Scale,4,Monster Bone L,3,Lightcrystal,1
+Gigginox Greaves,2,4,0,0,1,2,18,-4,1,-1,0,1,Protection,-2,Hearing,3,Status,3,Sharpener,2,,,Fearsome Maw,1,Velvety Hide,4,Pale Extract,2,Lightcrystal,1
+Gigginox Leggings,2,4,0,0,2,2,9,-3,2,0,1,2,Protection,-2,Hearing,3,Status,3,Reload Spd,2,,,Fearsome Maw,1,Velvety Hide,4,Pale Extract,2,Lightcrystal,1
+Ingot Greaves,2,5,1,0,1,2,19,-2,2,0,-2,0,Sheathing,1,Guard Boost,3,ThunderAtk,2,Whim,-2,,,Dragonite Ore,3,Isisium,2,Pelagicite Ore,2,Machalite Ore,5
+Ingot Leggings,2,5,1,0,2,2,10,-1,3,1,-1,1,ThunderAtk,2,Recoil,1,Pellet Up,3,Whim,-2,,,Dragonite Ore,3,Isisium,2,Pelagicite Ore,2,Machalite Ore,5
+Barioth Greaves,2,5,2,0,1,3,20,-4,-1,0,0,2,Constitutn,1,Stam Recov,-2,Evasion,2,Ice Atk,1,,,Barioth Pelt,4,Barioth Shell,2,Barioth Claw,1,Lagombi Pelt,6
+Barioth Leggings,2,5,1,0,2,3,10,-3,0,1,1,3,Constitutn,1,Stam Recov,-3,Evasion,2,Ice Atk,1,,,Barioth Pelt,4,Barioth Shell,2,Barioth Claw,1,Lagombi Pelt,6
+Nibelsnarf Greaves,2,5,0,0,1,2,21,2,-2,1,0,-4,Mud/Snow,2,Sheathing,3,Hunger,-2,Eating,3,,,Nibelsnarf Shell,3,Nibelsnarf Claw,1,Nibelsnarf Hide,3,Altaroth Jaw,3
+Nibelsnarf Leggings,2,5,0,0,2,2,11,3,-1,2,1,-3,Mud/Snow,1,Sheathing,3,Hunger,-2,Eating,3,,,Nibelsnarf Shell,3,Nibelsnarf Claw,1,Nibelsnarf Hide,3,Altaroth Jaw,3
+Guild Bard Boots,2,5,0,1,1,3,21,0,0,0,0,0,Torso Up,1,,,,,,,,,Flying Coin,2,Leviathan Coin,3,Beast Coin,4,Barioth Spike,2
+Guild Bard Gaiters,2,5,0,1,2,3,11,1,1,1,1,1,Torso Up,1,,,,,,,,,Flying Coin,2,Leviathan Coin,3,Beast Coin,4,Barioth Spike,2
+Scholar's Socks,2,5,0,2,1,3,21,0,0,0,0,0,Torso Up,1,,,,,,,,,Flying Coin,2,Leviathan Coin,3,Beast Coin,4,Barioth Spike,2
+Scholar's Sandals,2,5,0,2,2,3,11,1,1,1,1,1,Torso Up,1,,,,,,,,,Flying Coin,2,Leviathan Coin,3,Beast Coin,4,Barioth Spike,2
+Lagiacrus Greaves,2,5,1,0,1,3,22,-4,2,-1,1,-1,FastCharge,3,Tenderizer,2,Status,-2,CurrentRes,2,,,Lagiacrus Scale,2,Lagiacrus Hide,1,Lagiacrus Plate,1,Lightcrystal,1
+Lagiacrus Leggings,2,5,1,0,2,3,11,-3,3,0,2,0,Tenderizer,2,Status,-3,Normal Up,3,CurrentRes,2,,,Lagiacrus Scale,2,Lagiacrus Hide,1,Lagiacrus Plate,1,Lightcrystal,1
+Rathalos Greaves,2,5,1,0,1,3,22,2,-2,-3,0,0,Attack,3,Fire Atk,1,Sharpener,2,Rec Level,-2,,,Rathalos Shell,3,Rathalos Scale,4,Flame Sac,2,Dragonite Ore,3
+Rathalos Leggings,2,5,1,0,2,3,11,3,-1,-2,1,1,Attack,3,Fire Atk,1,Pierce Up,2,Rec Level,-2,,,Rathalos Shell,3,Rathalos Scale,4,Flame Sac,2,Dragonite Ore,3
+Duramboros Greaves,2,6,1,0,1,3,24,-4,1,1,2,-2,Attack,1,Rec Speed,3,Expert,-2,Survivor,1,,,Duram Tailcase,2,Duram Mossplate,4,Duramboros Hump,2,Bullfango Pelt,4
+Duramboros Leggings,2,6,1,0,2,3,12,-3,2,2,3,-1,Attack,1,Rec Speed,3,Expert,-2,Survivor,1,,,Duram Tailcase,2,Duram Mossplate,4,Duramboros Hump,2,Bullfango Pelt,4
+Diablos Greaves,2,5,0,0,1,3,24,2,0,0,0,-4,FastCharge,3,Expert,2,Tremor Res,2,Sharpener,-2,,,Diablos Ridge,3,Diablos Shell,3,Diablos Fang,3,Rhenoplos Shell,3
+Diablos Leggings,2,5,0,0,2,3,12,3,1,1,1,-3,Expert,2,Tremor Res,2,Precision,-2,Pierce Up,3,,,Diablos Ridge,3,Diablos Shell,3,Diablos Fang,3,Rhenoplos Shell,3
+Uragaan Greaves,2,5,0,0,1,3,24,2,1,-3,-5,-2,Torso Up,1,,,,,,,,,Uragaan Shell,4,Uragaan Scale,4,Lava Nugget,3,Volvi Rickrack,3
+Uragaan Leggings,2,5,0,0,2,3,12,3,2,-2,-4,-1,Torso Up,1,,,,,,,,,Uragaan Shell,4,Uragaan Scale,4,Lava Nugget,3,Volvi Rickrack,3
+Agnaktor Greaves,2,5,1,0,1,3,24,2,0,0,-4,-1,Guard,2,Fire Atk,3,Sharpness,2,Flame Aura,2,Potential,-1,Agnaktor Claw,1,Scalding Pleura,4,Agnaktor Hide,3,G.Wroggi Brace,3
+Agnaktor Leggings,2,5,1,0,2,3,12,3,1,1,-3,0,Fire Atk,2,Precision,3,Normal Up,2,Flame Aura,2,Potential,-1,Agnaktor Claw,1,Scalding Pleura,4,Agnaktor Hide,3,G.Wroggi Brace,3
+Helios Greaves,-1,5,2,1,1,3,26,0,-2,-5,3,1,Protection,-2,Destroyer,2,Hearing,1,Water Atk,3,,,Ceadeus Hide,2,Ceadeus Scale,2,Lagiacrus Plate,1,,
+Helios Leggings,-1,5,2,1,2,3,13,1,-1,-4,4,2,Protection,-2,Destroyer,2,Hearing,1,Water Atk,3,,,Ceadeus Hide,2,Ceadeus Scale,2,Lagiacrus Plate,1,,
+Selene Greaves,-1,5,2,2,1,3,26,0,-2,-5,3,1,Protection,-2,Destroyer,2,Hearing,1,Water Atk,3,,,Ceadeus Hide,2,Ceadeus Scale,2,Lagiacrus Plate,1,,
+Selene Leggings,-1,5,2,2,2,3,13,1,-1,-4,4,2,Protection,-2,Destroyer,2,Hearing,1,Water Atk,3,,,Ceadeus Hide,2,Ceadeus Scale,2,Lagiacrus Plate,1,,
+Leather Greaves S,3,6,1,0,1,4,16,-2,0,2,0,0,Gathering,1,Speed Gatherer,3,Whim,2,,,,,High-qualty Pelt,2,Warm Pelt,2,Velvety Hide,4,,
+Leather Leggings S,3,6,1,0,2,4,8,-1,1,3,1,1,Gathering,1,Speed Gatherer,3,Whim,1,,,,,High-qualty Pelt,2,Warm Pelt,2,Velvety Hide,4,,
+Yukumo Sky Hakama,3,6,0,0,1,4,18,-1,2,0,0,0,Protection,2,Sense,2,Sharpener,2,Wide-Range,3,,,King Scarab,2,Bullfango Pelt,3,Warm Pelt,2,,
+Yukumo Land Hakama,3,6,0,0,2,4,9,0,3,1,1,1,Protection,2,Sense,2,Precision,2,Wide-Range,3,,,King Scarab,2,Bullfango Pelt,3,Warm Pelt,2,,
+Chainmail Greaves S,3,6,1,0,1,4,22,2,-3,0,2,1,Health,4,Combo Rate,3,Combo Plus,1,,,,,Carbalite Ore,2,Machalite Ore,2,Iron Ore,5,,
+Chainmail Leggings S,3,6,1,0,2,4,11,3,-2,1,3,2,Health,4,Combo Rate,3,Combo Plus,1,,,,,Carbalite Ore,2,Machalite Ore,2,Iron Ore,5,,
+Loc Lac Boots S,3,6,1,0,1,4,18,2,1,0,-3,0,Dungmaster,3,Psychic,4,Transportr,5,,,,,Quality Sac,3,Altaroth Jaw,3,Isisium,3,,
+Loc Lac Gaiters S,3,6,1,0,2,4,9,3,2,1,-2,1,Dungmaster,3,Psychic,4,Transportr,5,,,,,Quality Sac,3,Altaroth Jaw,3,Isisium,3,,
+Hunter's Greaves S,3,6,1,0,1,4,24,0,-4,0,2,0,Poison,-2,Psychic,1,Ranger,4,SpeedSetup,2,,,Carbalite Ore,1,Bullfango Pelt,2,Isisium,3,Earth Crystal,2
+Hunter's Leggings S,3,6,1,0,2,4,12,1,-3,1,3,1,Poison,-2,Psychic,1,Ranger,3,SpeedSetup,2,,,Carbalite Ore,1,Bullfango Pelt,2,Isisium,3,Earth Crystal,2
+Piscine Breeches S,3,6,1,0,1,4,24,-3,-4,1,4,3,CurrentRes,1,Swimming,9,,,,,,,Quality Fin,4,Hydro Hide,5,Carbalite Ore,5,,
+Piscine Leggings S,3,6,1,0,2,4,12,-2,-3,2,5,4,CurrentRes,1,Swimming,9,,,,,,,Quality Fin,4,Hydro Hide,5,Carbalite Ore,5,,
+Bone Greaves S,3,6,1,0,1,4,26,2,-1,0,0,-3,Sleep,-2,KO,3,Maestro,1,LastingPwr,2,Perception,2,Avian Finebone,2,Quality Fin,3,Monster Bone+,2,,
+Bone Leggings S,3,6,1,0,2,4,13,3,0,1,1,-2,Sleep,-2,KO,2,Maestro,1,LastingPwr,3,Perception,3,Avian Finebone,2,Quality Fin,3,Monster Bone+,2,,
+Alloy Greaves S,3,6,0,0,1,4,28,-1,-3,0,2,-2,Torso Up,1,,,,,,,,,Bathycite Ore,3,Carbalite Ore,3,Firestone,3,Isisium,5
+Alloy Leggings S,3,6,0,0,2,4,14,0,-2,1,3,-1,Torso Up,1,,,,,,,,,Bathycite Ore,3,Carbalite Ore,3,Firestone,3,Isisium,5
+Bnahabra Boots S,3,6,1,0,1,4,32,-5,2,3,-1,-1,Paralysis,1,Attack,-2,Sheathing,2,Status,3,,,Bnaha Carapace,2,Bnahabra Wing,4,Quality Sac,1,Monster Fluid,3
+Bnahabra Pants S,3,6,1,0,2,4,16,-4,3,4,0,0,Paralysis,1,Attack,-2,Sheathing,2,Status,3,,,Bnaha Carapace,2,Bnahabra Wing,4,Quality Sac,1,Monster Fluid,3
+Rhenoplos Greaves S,3,6,1,0,1,4,32,2,-1,1,-1,-1,Stun,-1,Mud/Snow,2,FastCharge,3,KO,3,Artillery,1,Rheno Carapace,3,Monster Bone S,6,Carbalite Ore,2,,
+Rhenoplos Leggings S,3,6,1,0,2,4,16,3,0,2,0,0,Stun,-1,Mud/Snow,2,FastCharge,3,KO,3,Artillery,1,Rheno Carapace,3,Monster Bone S,6,Carbalite Ore,2,,
+Dianthus Breeches,4,7,0,2,1,5,35,0,0,0,0,0,Poison,-2,Wide-Range,4,Perception,2,Psychic,3,,,Gloamgrass Bud,1,Fucium Ore,3,Lightcrystal,4,Bathycite Ore,1
+Campanile Breeches,4,7,0,2,2,5,18,1,1,1,1,1,Poison,-2,Wide-Range,4,Perception,2,Psychic,3,,,Gloamgrass Bud,1,Fucium Ore,3,Lightcrystal,4,Bathycite Ore,1
+Jaggi Greaves S,3,6,2,0,1,4,36,-4,0,2,0,0,Stun,2,Attack,3,LastingPwr,-2,Gluttony,2,,,Jaggi Scale+,4,Jaggi Hide,4,Avian Finebone,7,Dragonite Ore,2
+Jaggi Leggings S,3,6,2,0,2,4,18,-3,1,3,1,1,Stun,2,Attack,3,LastingPwr,-2,Gluttony,1,,,Jaggi Scale+,4,Jaggi Hide,4,Avian Finebone,7,Dragonite Ore,2
+Arzuros Greaves S,3,6,0,0,1,4,37,-3,0,2,2,-2,Torso Up,1,,,,,,,,,Arzuros Brace+,2,Arzuros Pelt+,4,Bnahabra Shell,3,King Scarab,2
+Arzuros Leggings S,3,6,0,0,2,4,19,-2,1,3,3,-1,Torso Up,1,,,,,,,,,Arzuros Brace+,2,Arzuros Pelt+,4,Bnahabra Shell,3,King Scarab,2
+Wroggi Greaves S,3,6,1,0,1,4,38,2,0,2,-2,-3,Poison,2,Defense,-2,Sharpness,2,Eating,2,TeamPlayer,2,G.Wroggi Brace+,4,G.Wroggi Hide+,3,G.Wroggi Hide,3,King Scarab,4
+Wroggi Leggings S,3,6,1,0,2,4,19,3,1,3,-1,-2,Poison,2,Defense,-2,Normal Up,2,Eating,2,TeamPlayer,2,G.Wroggi Brace+,4,G.Wroggi Hide+,3,G.Wroggi Hide,3,King Scarab,4
+Baggi Greaves S,4,7,0,0,1,4,40,-4,0,1,0,2,Sleep,3,Rec Speed,3,Fire Atk,-2,Ice Atk,2,TeamLeader,3,Baggi Scale+,2,Baggi Hide,6,Avian Finebone,7,Gracium,3
+Baggi Leggings S,4,7,0,0,2,4,20,-3,1,2,1,3,Sleep,3,Rec Speed,3,Fire Atk,-2,Ice Atk,2,TeamLeader,3,Baggi Scale+,2,Baggi Hide,6,Avian Finebone,7,Gracium,3
+Lagombi Greaves S,4,7,1,0,1,4,40,-3,-1,0,0,2,Expert,2,Heat Res,-2,Cold Res,2,Evade Dist,2,LastingPwr,2,Lagombi Pelt+,3,Lagom Plastron+,3,Lagombi Claw+,1,Velvety Hide,8
+Lagombi Leggings S,4,7,1,0,2,4,20,-2,0,1,1,3,Expert,3,Heat Res,-2,Cold Res,2,Evade Dist,2,LastingPwr,1,Lagombi Pelt+,3,Lagom Plastron+,3,Lagombi Claw+,1,Velvety Hide,8
+Qurupeco Greaves S,3,6,1,0,1,5,41,3,0,0,-1,-4,Ice Res,-1,Maestro,3,Wide-Range,3,Psychic,3,,,Qurupeco Wing,3,Qurupeco Scale+,3,Vivid Feather,2,Hercudrome,3
+Qurupeco Leggings S,3,6,1,0,2,5,21,4,1,1,0,-3,Ice Res,-2,Maestro,2,Wide-Range,4,Psychic,2,,,Qurupeco Wing,3,Qurupeco Scale+,3,Vivid Feather,2,Hercudrome,3
+Qurupeco Greaves U,3,6,1,0,1,6,41,-1,3,0,0,-4,Def Lock,2,Expert,2,Wind Res,4,Ice Atk,-2,Wide-Range,1,C.Peco Scale+,3,C.Peco Wing,2,Wyvern Stone,1,Killer Beetle,5
+Qurupeco Leggings U,3,6,1,0,2,6,21,0,4,1,1,-3,Def Lock,1,Expert,2,Wind Res,4,Ice Atk,-2,Wide-Range,1,C.Peco Scale+,3,C.Peco Wing,2,Wyvern Stone,1,Killer Beetle,5
+Ludroth Greaves S,3,6,1,0,1,5,42,-4,-1,1,3,-1,Hearing,3,Stamina,2,Water Atk,2,ThunderAtk,-2,Oxygen,2,R.Ludroth Claw+,2,R.Ludroth Scale+,3,Spongy Hide+,3,Killer Beetle,5
+Ludroth Leggings S,3,6,1,0,2,5,21,-3,0,2,4,0,Hearing,2,Stamina,2,Water Atk,2,ThunderAtk,-2,Oxygen,1,R.Ludroth Claw+,2,R.Ludroth Scale+,3,Spongy Hide+,3,Killer Beetle,5
+Ludroth Greaves U,3,6,1,0,1,6,42,-4,-2,1,3,0,Stamina,2,Status,4,ThunderRes,-2,Hunger,4,,,P.Ludroth Claw+,3,P.Ludroth Scale+,3,Hydro Hide+,3,Killer Beetle,5
+Ludroth Leggings U,3,6,1,0,2,6,21,-3,-1,2,4,1,Stamina,2,Status,3,ThunderRes,-2,Hunger,3,,,P.Ludroth Claw+,3,P.Ludroth Scale+,3,Hydro Hide+,3,Killer Beetle,5
+Volvidon Greaves S,4,7,0,0,1,4,44,2,0,1,-4,-1,Torso Up,1,,,,,,,,,Volvidon Claw+,3,Volvi Carapace,3,Volvi Rickrack,1,Fucium Ore,2
+Volvidon Leggings S,4,7,0,0,2,4,22,3,1,2,-3,0,Torso Up,1,,,,,,,,,Volvidon Claw+,3,Volvi Carapace,3,Volvi Rickrack,1,Fucium Ore,2
+Aelucanth Crura,4,7,2,1,1,5,46,-4,3,1,0,-1,Antiseptic,2,Protection,-2,Hearing,3,Dragon Atk,1,,,Rare Scarab,3,Butterfly Beetle,1,Monster Broth,3,Snakebee Larva,10
+Aelucanth Tarsi,4,7,2,1,2,5,23,-3,4,2,1,0,Antiseptic,2,Protection,-3,Hearing,3,Dragon Atk,1,,,Rare Scarab,3,Butterfly Beetle,1,Monster Broth,3,Snakebee Larva,10
+Rhopessa Crura,4,7,2,2,1,5,46,-4,3,1,0,-1,Antiseptic,2,Protection,-2,Hearing,3,Dragon Atk,1,,,Rare Scarab,3,Butterfly Beetle,1,Monster Broth,3,Snakebee Larva,10
+Rhopessa Tarsi,4,7,2,2,2,5,23,-3,4,2,1,0,Antiseptic,2,Protection,-3,Hearing,3,Dragon Atk,1,,,Rare Scarab,3,Butterfly Beetle,1,Monster Broth,3,Snakebee Larva,10
+Artian Greaves,4,7,1,0,1,5,46,0,-3,3,-3,2,Stam Recov,4,Guard Boost,3,,,,,,,Long Fragment,3,Rusted Fragment,5,Gracium,4,Dragonite Ore,9
+Artian Leggings,4,7,1,0,2,5,23,1,-2,4,-2,3,Recoil,4,Precision,4,,,,,,,Long Fragment,3,Rusted Fragment,5,Gracium,4,Dragonite Ore,9
+Barroth Greaves S,3,6,0,0,1,5,46,4,1,0,-4,-2,Attack,4,Defense,3,Guard,3,Hunger,-2,,,Barroth Carapace,3,Barroth Tail,1,Monster Keenbone,3,Jaggi Scale+,4
+Barroth Leggings S,3,6,0,0,2,5,23,5,2,1,-3,-1,Attack,4,Defense,3,Precision,2,Hunger,-2,,,Barroth Carapace,3,Barroth Tail,1,Monster Keenbone,3,Jaggi Scale+,4
+Barroth Greaves U,4,7,1,0,1,6,48,-4,-2,0,1,3,Defense,3,Fire Atk,-2,Ice Atk,1,Potential,3,,,J.Barr Carapace,3,J.Barroth Tail,1,J.Barroth Claw+,3,Lagom Plastron+,3
+Barroth Leggings U,4,7,1,0,2,6,24,-3,-1,1,2,4,Defense,2,Fire Atk,-2,Ice Atk,1,Potential,4,,,J.Barr Carapace,3,J.Barroth Tail,1,J.Barroth Claw+,3,Lagom Plastron+,3
+Gobul Greaves S,3,7,3,0,1,5,47,-2,-4,1,3,0,Rec Speed,-2,Expert,1,Eating,1,Swimming,3,,,Gobul Spike+,2,Gobul Hide+,4,Gobul Fin+,2,Gobul Lantern+,1
+Gobul Leggings S,3,7,3,0,2,5,24,-1,-3,2,4,1,Rec Speed,-2,Expert,1,Eating,1,Swimming,2,,,Gobul Spike+,2,Gobul Hide+,4,Gobul Fin+,2,Gobul Lantern+,1
+Mosgharl Roots,3,6,2,0,1,5,48,-4,0,0,1,2,Rec Speed,3,FastCharge,2,Guard,-2,Combo Rate,1,SpeedSetup,1,King Scarab,4,Bumblepumpkin,4,Quality Sac,3,Sleep Herb,15
+Mosgharl Radicles,3,6,2,0,2,5,24,-3,1,1,2,3,Rec Speed,3,FastCharge,1,Precision,-2,Combo Rate,1,SpeedSetup,1,King Scarab,4,Bumblepumpkin,4,Quality Sac,3,Sleep Herb,15
+Guild Bard Boots S,3,-1,0,1,1,5,48,0,0,0,0,0,Torso Up,1,,,,,,,,,Pinnacle Coin,2,Flying Coin,3,Leviathan Coin,2,Commendation,2
+Guild Bard Gaiters S,3,-1,0,1,2,5,24,1,1,1,1,1,Torso Up,1,,,,,,,,,Pinnacle Coin,2,Flying Coin,3,Leviathan Coin,2,Commendation,2
+Scholar's Socks S,3,-1,0,2,1,5,48,0,0,0,0,0,Torso Up,1,,,,,,,,,Pinnacle Coin,2,Flying Coin,3,Leviathan Coin,2,Commendation,2
+Scholar's Sandals S,3,-1,0,2,2,5,24,1,1,1,1,1,Torso Up,1,,,,,,,,,Pinnacle Coin,2,Flying Coin,3,Leviathan Coin,2,Commendation,2
+Ingot Greaves S,4,7,1,0,1,5,48,-2,3,1,-3,0,Sheathing,1,Guard Boost,3,ThunderAtk,3,Whim,-2,,,Fucium Ore,3,Gracium,3,Bathycite Ore,1,Carbalite Ore,5
+Ingot Leggings S,4,7,1,0,2,5,24,-1,4,2,-2,1,ThunderAtk,3,Recoil,1,Pellet Up,3,Whim,-2,,,Fucium Ore,3,Gracium,3,Bathycite Ore,1,Carbalite Ore,5
+Rathian Greaves S,3,6,1,0,1,5,49,3,-2,-4,0,0,Health,5,Fire Atk,2,Water Atk,-2,Rec Level,2,,,Rathian Carapace,4,Rathian Scale+,4,Monster Keenbone,3,Dragonite Ore,5
+Rathian Leggings S,3,6,1,0,2,5,25,4,-1,-3,1,1,Health,5,Fire Atk,1,Water Atk,-2,Rec Level,2,,,Rathian Carapace,4,Rathian Scale+,4,Monster Keenbone,3,Dragonite Ore,5
+Rath Heart Greaves,3,6,1,0,1,6,49,3,-2,-4,0,0,Wind Res,4,Sense,-1,Fire Atk,1,Potential,2,,,P.Rath Carapace,2,P.Rathian Scale+,4,Monster Keenbone,3,Carbalite Ore,5
+Rath Heart Leggings,3,6,1,0,2,6,25,4,-1,-3,1,1,Wind Res,4,Sense,-1,Fire Atk,1,Potential,3,,,P.Rath Carapace,2,P.Rathian Scale+,4,Monster Keenbone,3,Carbalite Ore,5
+Gigginox Greaves S,4,7,2,0,1,5,49,-5,2,-1,0,2,Protection,-2,Hearing,3,Status,2,Sharpener,3,,,Grim Venom Gland,3,Uncanny Hide+,2,Fearsome Maw,2,G.Baggi Hide+,4
+Gigginox Leggings S,4,7,2,0,2,5,25,-4,3,0,1,3,Protection,-2,Hearing,3,Status,2,Reload Spd,2,,,Grim Venom Gland,3,Uncanny Hide+,2,Fearsome Maw,2,G.Baggi Hide+,4
+Gigginox Greaves U,4,7,1,0,1,6,49,0,3,-1,-5,1,FastCharge,2,Stam Drain,3,ThunderAtk,2,Ice Atk,-2,,,B.Giggi Hide+,4,Uncanny Hide+,2,Monster Keenbone,2,Lightcrystal,2
+Gigginox Leggings U,4,7,1,0,2,6,25,1,4,0,-4,2,FastCharge,1,Stam Drain,3,ThunderAtk,2,Ice Atk,-2,,,B.Giggi Hide+,4,Uncanny Hide+,2,Monster Keenbone,2,Lightcrystal,2
+Plesioth Greaves,3,7,1,0,1,5,49,-4,-5,2,3,2,Heat Res,2,Stamina,4,Tranquilzr,2,SpeedSetup,2,,,Plesioth Scale+,4,Plesioth Fin+,2,Carbalite Ore,3,Wyvern Stone,1
+Plesioth Leggings,3,7,1,0,2,5,25,-3,-4,3,4,3,Heat Res,2,Stamina,4,Tranquilzr,2,SpeedSetup,2,,,Plesioth Scale+,4,Plesioth Fin+,2,Carbalite Ore,3,Wyvern Stone,1
+Barioth Greaves S,4,8,1,0,1,5,50,-5,-1,0,0,3,Constitutn,3,Stam Recov,-2,Evasion,3,Ice Atk,2,,,Barioth Pelt+,5,Barioth Carapace,3,Barioth Claw,1,Lagombi Pelt+,4
+Barioth Leggings S,4,8,1,0,2,5,25,-4,0,1,1,4,Constitutn,3,Stam Recov,-2,Evasion,3,Ice Atk,2,,,Barioth Pelt+,5,Barioth Carapace,3,Barioth Claw,1,Lagombi Pelt+,4
+Barioth Greaves U,5,9,2,0,1,6,54,3,-1,0,0,-5,Attack,4,Heat Res,1,Evasion,-2,Evade Dist,1,,,S.Barioth Pelt+,4,S.Bari Carapace,3,S.Barioth Claw+,1,Arzuros Brace,3
+Barioth Leggings U,5,9,2,0,2,6,27,4,0,1,1,-4,Attack,4,Heat Res,1,Evasion,-2,Evade Dist,1,,,S.Barioth Pelt+,4,S.Bari Carapace,3,S.Barioth Claw+,1,Arzuros Brace,3
+Nibelsnarf Greaves S,4,8,2,0,1,5,51,3,-2,1,0,-5,Mud/Snow,3,Sheathing,1,ThunderAtk,-2,Eating,2,,,Nibel Carapace,4,Wyvern Stone,1,Monster Keenbone,3,G.Wroggi Hide+,4
+Nibelsnarf Leggngs S,4,8,2,0,2,5,26,4,-1,2,1,-4,Mud/Snow,2,Sheathing,1,ThunderAtk,-2,Eating,2,,,Nibel Carapace,4,Wyvern Stone,1,Monster Keenbone,3,G.Wroggi Hide+,4
+Nargacuga Greaves,5,9,1,0,1,5,51,-2,-5,1,1,1,Stamina,-2,Evasion,3,Evade Dist,2,Sense,2,,,Nargacuga Fang+,5,Nargacuga Scale+,5,Narga Medulla,1,Rare Scarab,3
+Nargacuga Leggings,5,9,1,0,2,5,26,-1,-4,2,2,2,Stamina,-2,Evasion,2,Evade Dist,2,Sense,2,,,Nargacuga Fang+,5,Nargacuga Scale+,5,Narga Medulla,1,Rare Scarab,3
+Lagiacrus Greaves S,4,8,1,0,1,5,53,-5,3,-1,1,-1,FastCharge,2,Tenderizer,2,Status,-2,Sharpener,2,,,Lagiacrus Scale+,5,Lagiacrus Hide+,4,Lagiacrus Claw+,5,Barioth Spike,3
+Lagiacrus Leggings S,4,8,1,0,2,5,27,-4,4,0,2,0,Tenderizer,2,Status,-2,Recoil,2,Normal Up,3,,,Lagiacrus Scale+,5,Lagiacrus Hide+,4,Lagiacrus Claw+,5,Barioth Spike,3
+Lagiacrus Greaves U,5,10,2,0,1,6,60,-4,3,-4,2,0,Attack,2,Destroyer,1,Stamina,-2,Blight Res,2,,,I.Lagi Scale+,4,I.Lagi Hide+,3,Lagiacrus Claw+,2,Barioth Spike,2
+Lagiacrus Leggings U,5,10,2,0,2,6,30,-3,4,-3,3,1,Attack,2,Destroyer,1,Stamina,-2,Blight Res,2,,,I.Lagi Scale+,4,I.Lagi Hide+,3,Lagiacrus Claw+,2,Barioth Spike,2
+Rathalos Greaves S,3,8,0,0,1,5,53,3,-2,-4,0,0,Attack,5,Fire Atk,1,Sharpener,2,Rec Level,-2,,,Rathlos Carapace,6,Rath Medulla,2,Rathalos Scale,6,Firestone,4
+Rathalos Leggings S,3,8,0,0,2,5,27,4,-1,-3,1,1,Attack,5,Fire Atk,1,Pierce Up,2,Rec Level,-2,,,Rathlos Carapace,6,Rath Medulla,2,Rathalos Scale,6,Firestone,4
+Rath Soul Greaves,5,9,1,0,1,6,55,3,0,-4,0,-2,Health,-2,Expert,3,Hearing,3,Sharpness,2,,,A.Rath Carapace,2,A.Rath Scale+,3,Rathalos Ruby,1,Firecell Stone,2
+Rath Soul Leggings,5,9,0,0,2,6,28,4,1,-3,1,-1,Health,-2,Expert,3,Hearing,3,Normal Up,3,,,A.Rath Carapace,2,A.Rath Scale+,3,Rathalos Ruby,1,Firecell Stone,2
+Zinogre Greaves,4,9,2,0,1,5,53,0,3,1,-2,-4,Sense,-2,ThunderAtk,3,Sharpness,1,Gloves Off,1,,,Zinogre Carapace,5,Zinogre Claw+,5,Zinogre Shocker+,3,Fulgurbug,10
+Zinogre Leggings,4,9,2,0,2,5,27,1,4,2,-1,-3,Sense,-2,ThunderAtk,3,Reload Spd,1,Gloves Off,1,,,Zinogre Carapace,5,Zinogre Claw+,5,Zinogre Shocker+,3,Fulgurbug,10
+Brachydios Greaves,4,8,1,0,1,5,53,3,0,0,-4,-2,Evasion,-2,Bomb Boost,3,Potential,3,Spirit,2,,,Brach Carapace,4,Mystery Slime,2,Brach Pounder,2,Carbalite Ore,5
+Brachydios Leggings,4,8,1,0,2,5,27,4,1,1,-3,-1,Evasion,-2,Bomb Boost,2,Potential,3,Spirit,1,,,Brach Carapace,4,Mystery Slime,2,Brach Pounder,2,Carbalite Ore,5
+Duramboros Greaves S,4,8,1,0,1,5,54,-5,1,1,3,-2,Attack,3,Rec Speed,4,Expert,-2,Survivor,1,,,Duram Tailcase+,3,Hard Mossplate,5,Duramboros Hump,4,Monster Hardbone,5
+Duramboros Leggngs S,4,8,1,0,2,5,27,-4,2,2,4,-1,Attack,3,Rec Speed,4,Expert,-2,Survivor,1,,,Duram Tailcase+,3,Hard Mossplate,5,Duramboros Hump,4,Monster Hardbone,5
+Ranger's Espadrilles,5,-1,1,0,1,5,55,0,0,0,0,0,Expert,1,Rec Level,2,Fate,-2,Carving,3,,,Pinnacle Coin,2,Beast Coin,2,Earth Dragongem,1,Commendation,3
+Archer's Espadrilles,5,-1,1,0,2,5,28,1,1,1,1,1,Expert,1,Rec Level,2,Fate,-3,Carving,3,,,Pinnacle Coin,2,Beast Coin,2,Earth Dragongem,1,Commendation,3
+Dober Greaves,5,9,3,0,1,6,55,-2,0,3,0,0,Tremor Res,1,Stam Recov,1,Dragon Atk,1,Hunger,-2,,,Dragonbone Relic,3,G.Agnak Claw+,2,Monster Keenbone,5,Jumbo Bone,10
+Dober Leggings,5,9,3,0,2,6,28,-1,1,4,1,1,Stam Recov,1,Dragon Atk,1,Reload Spd,1,Hunger,-2,,,Dragonbone Relic,3,G.Agnak Claw+,2,Monster Keenbone,5,Jumbo Bone,10
+Diablos Greaves S,4,8,2,0,1,5,56,3,0,0,0,-5,FastCharge,1,Expert,3,Tremor Res,2,Sharpener,-2,,,Diablos Carapace,6,Twisted Horn,5,Monster Hardbone,3,Rhenoplos Scalp,3
+Diablos Leggings S,4,8,2,0,2,5,28,4,1,1,1,-4,Expert,3,Tremor Res,1,Precision,-2,Pierce Up,2,,,Diablos Carapace,6,Twisted Horn,5,Monster Hardbone,3,Rhenoplos Scalp,3
+Diablos Greaves U,5,9,0,0,1,6,57,3,0,0,0,-5,KO,2,Stam Drain,4,Hearing,3,Dragon Atk,-2,,,B.Diab Carapace,5,Twisted Horn,5,Monster Hardbone,4,Altaroth Jaw,4
+Diablos Leggings U,5,9,0,0,2,6,29,4,1,1,1,-4,Hearing,2,Dragon Atk,-2,Reload Spd,4,Recoil,3,,,B.Diab Carapace,5,Twisted Horn,5,Monster Hardbone,4,Altaroth Jaw,4
+Agnaktor Greaves S,5,8,2,0,1,5,56,3,0,0,-5,-1,Constitutn,3,Fire Atk,2,Sharpness,1,Flame Aura,2,,,Scalding Pleura+,5,Agnaktor Hide+,4,Wyvern Stone,1,G.Wroggi Brace,3
+Agnaktor Leggings S,5,8,2,0,2,5,28,4,1,1,-4,0,Fire Atk,2,Precision,2,Normal Up,2,Flame Aura,2,,,Scalding Pleura+,5,Agnaktor Hide+,4,Wyvern Stone,1,G.Wroggi Brace,3
+Agnaktor Greaves U,5,9,0,0,1,6,58,-5,-1,-1,2,3,Constitutn,-3,Guard,4,Guard Boost,3,Sharpener,3,,,Dewy Pleura+,5,G.Agnak Fin+,2,G.Agnak Claw+,3,G.Baggi Hide+,4
+Agnaktor Leggings U,5,9,0,0,2,6,29,-4,0,0,3,4,Expert,4,Constitutn,-3,Reload Spd,3,Pierce Up,2,,,Dewy Pleura+,5,G.Agnak Fin+,2,G.Agnak Claw+,3,G.Baggi Hide+,4
+Uragaan Greaves S,4,8,0,0,1,5,57,3,1,-2,-5,-1,Torso Up,1,,,,,,,,,Uragaan Carapace,5,Uragaan Scale+,6,Wyvern Stone,1,Volvi Rickrack,2
+Uragaan Leggings S,4,8,0,0,2,5,29,4,2,-1,-4,0,Torso Up,1,,,,,,,,,Uragaan Carapace,5,Uragaan Scale+,6,Wyvern Stone,1,Volvi Rickrack,2
+Uragaan Greaves U,5,9,2,0,1,6,59,3,1,-2,-5,-1,Stam Recov,3,Guard,1,Artillery,1,Swimming,-2,,,S.Urag Carapace,5,S.Uragaan Scale+,4,S.Uragaan Maw,2,Volvi Rickrack,2
+Uragaan Leggings U,5,9,2,0,2,6,30,4,2,-1,-4,0,KO,3,Recoil,1,Artillery,1,Swimming,-2,,,S.Urag Carapace,5,S.Uragaan Scale+,4,S.Uragaan Maw,2,Volvi Rickrack,2
+Damascus Greaves,5,9,1,0,1,6,57,-2,-3,-1,2,2,Protection,2,ThunderAtk,3,Sharpener,3,Eating,-2,,,Mohran Carapace,6,P.Rath Carapace,6,A.Rathalos Tail,1,Commendation,2
+Damascus Leggings,5,9,1,0,2,6,29,-1,-2,0,3,3,Protection,2,ThunderAtk,3,Reload Spd,2,Eating,-2,,,Mohran Carapace,6,P.Rath Carapace,6,A.Rathalos Tail,1,Commendation,2
+Yamato Gusoku,5,7,0,1,1,7,60,3,0,-4,1,-4,Defense,3,FastCharge,3,Expert,5,Potential,-2,,,Mohran Scale+,5,Mohran Carapace,6,Earth Dragongem,1,Big Fin,10
+Mutsu Gusoku,5,7,0,1,2,7,30,4,1,-3,2,-3,Defense,4,Reload Spd,-2,Recoil,3,Pierce Up,3,,,Mohran Scale+,5,Mohran Carapace,6,Earth Dragongem,1,Big Fin,10
+Hyuga Hakama,5,7,0,2,1,7,60,3,0,-4,1,-4,Defense,3,FastCharge,3,Expert,5,Potential,-2,,,Mohran Scale+,5,Mohran Carapace,6,Earth Dragongem,1,Big Fin,10
+Amagi Hakama,5,7,0,2,2,7,30,4,1,-3,2,-3,Defense,4,Reload Spd,-2,Recoil,3,Pierce Up,3,,,Mohran Scale+,5,Mohran Carapace,6,Earth Dragongem,1,Big Fin,10
+Vangis Greaves,5,10,3,0,1,7,62,0,-4,-4,0,1,Attack,1,Sharpness,3,Hunger,-2,Eating,1,,,Deviljho Talon,4,Deviljho Scale,6,Deviljho Saliva,3,Uragaan Marrow,1
+Vangis Leggings,5,10,3,0,2,7,31,1,-3,-3,1,2,Attack,1,Recoil,2,Hunger,-2,Eating,1,,,Deviljho Talon,4,Deviljho Scale,6,Deviljho Saliva,3,Uragaan Marrow,1
+Escadora Scale,-1,10,0,0,1,7,68,3,-3,-2,-2,-3,Stun,-2,Evade Dist,3,Elemental,1,Gloves Off,2,Blight Res,3,Alatreon Plate,6,Alatreon Scute,6,Azure Dragongem,1,Majestic Horn,2
+Escadora Scala,-1,10,0,0,2,7,34,4,-2,-1,-1,-2,Stun,-2,Evade Dist,3,Elemental,1,Gloves Off,2,Blight Res,3,Alatreon Plate,6,Alatreon Scute,6,Azure Dragongem,1,Majestic Horn,2
+Pirate Boots J,5,-1,0,0,1,7,40,-2,-2,-2,-2,-2,Protection,-2,Fate,2,Carving,3,Tranquilzr,3,,,Pirate J Ticket,1,Volvi Rickrack,4,Rathlos Carapace,4,S.Urag Carapace,4
+Pirate Feet J,5,-1,0,0,2,7,20,-1,-1,-1,-1,-1,Protection,-2,Fate,2,Carving,3,Tranquilzr,3,,,Pirate J Ticket,1,Volvi Rickrack,4,Rathlos Carapace,4,S.Urag Carapace,4
+Black Leather Chaps,3,-1,1,0,1,7,51,2,2,2,2,2,Potential,10,,,,,,,,,Captain's IOU,2,Lagiacrus Hide+,4,Spongy Hide+,5,Gobul Hide+,5
+Black Leather Pants,3,-1,1,0,2,7,26,3,3,3,3,3,Potential,10,,,,,,,,,Captain's IOU,2,Lagiacrus Hide+,4,Spongy Hide+,5,Gobul Hide+,5
+Bouya Jeans,5,-1,0,0,1,7,53,0,0,0,0,0,Attack,5,Stam Recov,3,Sense,-3,,,,,Armament Invitation,1,Barroth Claw+,5,I.Lagi Scale+,5,Nargacuga Scale+,6
+Bouya Denim,5,-1,0,0,2,7,27,1,1,1,1,1,Attack,5,Stam Recov,3,Sense,-3,,,,,Armament Invitation,1,Barroth Claw+,5,I.Lagi Scale+,5,Nargacuga Scale+,6
+Bnahabra Boots X,6,-1,1,0,1,8,68,-6,2,4,-1,-1,Paralysis,3,Attack,-1,Sheathing,2,Status,3,FreeElemnt,3,Bnahabra Cutwing,2,Bnahabra Wing,3,Prized Stomach,1,Monster Essence,3
+Bnahabra Pants X,6,-1,1,0,2,8,40,-5,3,5,0,0,Paralysis,2,Attack,-2,Sheathing,2,Status,3,FreeElemnt,3,Bnahabra Cutwing,2,Bnahabra Wing,3,Prized Stomach,1,Monster Essence,3
+Rhenoplos Greaves X,6,-1,1,0,1,8,68,3,-2,2,-2,-2,FastCharge,1,KO,1,Artillery,2,CurrentRes,4,Guts,3,Rhenoplos Bone,3,Monster Bone L,8,Eltalite Ore,2,,
+Rhenoplos Leggings X,6,-1,1,0,2,8,40,4,-1,3,-1,-1,FastCharge,2,KO,1,Artillery,1,CurrentRes,4,Guts,3,Rhenoplos Bone,3,Monster Bone L,8,Eltalite Ore,2,,
+Chakra Anklet,6,-1,3,0,0,9,40,-3,0,1,0,3,,,,,,,,,,,Eltalite Ore,3,Purecrystal,2,,,,
+Mosgharl Roots X,6,-1,2,0,1,9,72,-5,0,0,1,4,Rec Speed,1,FastCharge,3,Combo Rate,1,Combo Plus,2,FreeElemnt,2,Heavy Mossplate,1,Bumblepumpkin,4,Prized Stomach,3,Sleep Herb,20
+Mosgharl Radicles X,6,-1,2,0,2,9,42,-4,1,1,2,5,Rec Speed,1,FastCharge,3,Combo Rate,1,Combo Plus,2,FreeElemnt,2,Heavy Mossplate,1,Bumblepumpkin,4,Prized Stomach,3,Sleep Herb,20
+Jaggi Greaves X,6,-1,1,0,1,8,72,-5,0,3,0,0,Stun,3,Attack,2,Rec Speed,1,Carnivore,3,Fate,3,Great Jaggi Piel,3,G.Jaggi Hide+,4,Avian Stoutbone,4,Fucium Ore,5
+Jaggi Leggings X,6,-1,1,0,2,8,42,-4,1,4,1,1,Stun,3,Attack,2,Rec Speed,2,Carnivore,2,Fate,3,Great Jaggi Piel,3,G.Jaggi Hide+,4,Avian Stoutbone,4,Fucium Ore,5
+Baggi Greaves X,6,-1,1,0,1,8,72,-5,0,2,0,3,Rec Speed,3,Cold Res,2,Ice Atk,1,Handicraft,2,TeamLeader,3,Great Baggi Piel,2,G.Baggi Hide+,4,Avian Stoutbone,4,Emperor Hopper,5
+Baggi Leggings X,6,-1,1,0,2,8,42,-4,1,3,1,4,Rec Speed,3,Cold Res,3,Ice Atk,2,Rapid Fire,2,TeamLeader,2,Great Baggi Piel,2,G.Baggi Hide+,4,Avian Stoutbone,4,Emperor Hopper,5
+Wroggi Greaves X,6,-1,2,0,1,8,72,3,0,3,-3,-5,Def Lock,2,Sharpness,1,Handicraft,2,Eating,2,TeamPlayer,2,G.Wroggi Piel,2,G.Wroggi Hide+,4,Avian Stoutbone,4,Meldspar Ore,2
+Wroggi Leggings X,6,-1,2,0,2,8,42,4,1,4,-2,-4,Def Lock,2,Loading,2,Normal Up,1,Eating,2,TeamPlayer,2,G.Wroggi Piel,2,G.Wroggi Hide+,4,Avian Stoutbone,4,Meldspar Ore,2
+Arzuros Greaves X,6,-1,0,0,1,8,72,-5,0,3,3,-3,Torso Up,1,,,,,,,,,Arzuros Allbrace,2,Crushing Fang,2,Bnaha Carapace,3,Emperor Hopper,4
+Arzuros Leggings X,6,-1,0,0,2,8,42,-4,1,4,4,-2,Torso Up,1,,,,,,,,,Arzuros Allbrace,2,Crushing Fang,2,Bnaha Carapace,3,Emperor Hopper,4
+Lagombi Greaves X,6,-1,1,0,1,8,72,-5,-1,0,0,3,Mud/Snow,2,Sheathing,1,Stam Recov,2,Dive Dist,3,Guts,2,Lagombi Fur,3,Lagom Plastron+,4,Lagombi Claw+,3,Eltalite Ore,8
+Lagombi Leggings X,6,-1,1,0,2,8,42,-4,0,1,1,4,Mud/Snow,2,Sheathing,1,Stam Recov,2,Dive Dist,4,Guts,2,Lagombi Fur,3,Lagom Plastron+,4,Lagombi Claw+,3,Eltalite Ore,8
+Volvidon Greaves X,6,-1,0,0,1,8,72,3,0,2,-5,-1,Torso Up,1,,,,,,,,,Volvidon Talon,3,Volvidon Cortex,3,Crushing Fang,2,Eltalite Ore,2
+Volvidon Leggings X,6,-1,0,0,2,8,42,4,1,3,-4,0,Torso Up,1,,,,,,,,,Volvidon Talon,3,Volvidon Cortex,3,Crushing Fang,2,Eltalite Ore,2
+Ingot Greaves X,7,-1,1,0,1,8,76,-3,3,2,-3,0,Sheathing,1,Guard Boost,2,ThunderAtk,4,Handicraft,1,Whim,-2,Allfire Stone,3,Gracium,2,Eltalite Ore,1,Carbalite Ore,5
+Ingot Leggings X,7,-1,1,0,2,8,44,-2,4,3,-2,1,ThunderAtk,4,Loading,2,Recoil,3,Pellet Up,1,Whim,-2,Allfire Stone,3,Gracium,2,Eltalite Ore,1,Carbalite Ore,5
+Dianthus Wealpants,6,-1,0,2,1,9,76,0,0,0,0,0,Poison,-2,Wide-Range,5,Perception,2,Psychic,4,FreeElemnt,1,Meldspar Ore,3,Gloamgrass Bud,1,Bindshroom,2,Long Fragment,4
+Campanile Wealpants,6,-1,0,2,2,9,44,1,1,1,1,1,Poison,-2,Wide-Range,4,Perception,3,Psychic,4,FreeElemnt,1,Meldspar Ore,3,Gloamgrass Bud,1,Bindshroom,2,Long Fragment,4
+Sailor Socks,7,-1,0,2,1,9,76,0,0,0,2,-2,Torso Up,1,,,,,,,,,Hunter King Coin,3,Piscine Coin,5,Meldspar Ore,4,Conqueror's Seal,3
+Sailor Sandals,7,-1,0,2,2,9,44,1,1,1,3,-1,Torso Up,1,,,,,,,,,Hunter King Coin,3,Piscine Coin,5,Meldspar Ore,4,Conqueror's Seal,3
+Qurupeco Greaves X,6,-1,3,0,1,8,76,4,0,0,-1,-5,Ice Res,-2,Handicraft,1,Wide-Range,2,Perception,3,,,Peco Fellwing,2,Qurupeco Shard,3,Lustrous Feather,2,Emperor Hopper,3
+Qurupeco Leggings X,6,-1,3,0,2,8,44,5,1,1,0,-4,Tenderizer,1,Ice Res,-2,Wide-Range,3,Perception,2,,,Peco Fellwing,2,Qurupeco Shard,3,Lustrous Feather,2,Emperor Hopper,3
+Qurupeco Greaves Z,6,-1,2,0,1,9,76,-1,4,0,0,-5,Sleep,-2,Def Lock,1,Expert,1,Wind Res,3,Wide-Range,3,C.Peco Shard,3,C.Peco Fellwing,2,Lrg Wyvern Stone,1,Hercudrome,5
+Qurupeco Leggings Z,6,-1,2,0,2,9,44,0,5,1,1,-4,Sleep,-2,Def Lock,2,Expert,2,Wind Res,2,Wide-Range,2,C.Peco Shard,3,C.Peco Fellwing,2,Lrg Wyvern Stone,1,Hercudrome,5
+Ludroth Greaves X,6,-1,2,0,1,8,78,-5,-1,1,4,-1,Hearing,1,Stamina,3,Water Atk,2,ThunderAtk,-2,Eating,1,R.Ludroth Talon,2,R.Ludroth Shard,3,Spongy Hide+,3,Emperor Hopper,5
+Ludroth Leggings X,6,-1,2,0,2,8,45,-4,0,2,5,0,Hearing,2,Stamina,2,Water Atk,2,ThunderAtk,-2,Eating,1,R.Ludroth Talon,2,R.Ludroth Shard,3,Spongy Hide+,3,Emperor Hopper,5
+Ludroth Greaves Z,6,-1,2,0,1,9,78,-5,-2,1,4,0,Poison,1,Stamina,2,Status,4,Hunger,2,,,P.Ludroth Talon,3,P.Ludroth Shard,3,Spongy Hide+,3,Eltalite Ore,5
+Ludroth Leggings Z,6,-1,2,0,2,9,45,-4,-1,2,5,1,Poison,1,Stamina,1,Status,4,Hunger,3,,,P.Ludroth Talon,3,P.Ludroth Shard,3,Spongy Hide+,3,Eltalite Ore,5
+Artian Greaves X,6,-1,1,0,1,9,80,0,-3,4,-3,2,Guard Boost,3,Handicraft,3,FreeElemnt,5,,,,,Eltalite Ore,5,Rusted Fragment,5,Long Fragment,3,Meldspar Ore,4
+Artian Leggings X,6,-1,1,0,2,9,40,1,-2,5,-2,3,Rapid Fire,5,Recoil,4,FreeElemnt,3,,,,,Eltalite Ore,5,Rusted Fragment,5,Long Fragment,3,Meldspar Ore,4
+Plesioth Greaves X,6,-1,2,0,1,8,80,-5,-6,2,4,2,Constitutn,-1,Handicraft,1,Fencing,3,Tranquilzr,4,SpeedSetup,1,Plesioth Shard,4,Fine Plesio Fin,2,Lrg Wyvern Stone,1,Eltalite Ore,2
+Plesioth Leggings X,6,-1,2,0,2,8,46,-4,-5,3,5,3,Constitutn,-1,Loading,1,Rapid Fire,3,Tranquilzr,4,SpeedSetup,1,Plesioth Shard,4,Fine Plesio Fin,2,Lrg Wyvern Stone,1,Eltalite Ore,2
+Plesioth Greaves Z,6,-1,1,0,1,9,82,-5,-6,2,4,2,Tenderizer,4,Constitutn,-2,Stamina,3,Sea Legs,3,,,G.Plesio Shard,4,Fine G.Plesi Fin,2,Lrg Wyvern Stone,1,Meldspar Ore,3
+Plesioth Leggings Z,6,-1,1,0,2,9,47,-4,-5,3,5,3,Tenderizer,4,Constitutn,-2,Stamina,3,Sea Legs,3,,,G.Plesio Shard,4,Fine G.Plesi Fin,2,Lrg Wyvern Stone,1,Meldspar Ore,3
+Rathian Greaves X,6,-1,1,0,1,8,80,4,-2,-5,0,0,Health,2,Fire Atk,4,Water Atk,-2,Rec Level,3,Fate,1,Rathian Cortex,4,Rathian Shard,4,Monster Slogbone,3,Eltalite Ore,4
+Rathian Leggings X,6,-1,1,0,2,8,46,5,-1,-4,1,1,Health,2,Fire Atk,4,Water Atk,-2,Rec Level,3,Fate,1,Rathian Cortex,4,Rathian Shard,4,Monster Slogbone,3,Eltalite Ore,4
+Rath Heart Greaves Z,6,-1,1,0,1,9,80,4,-2,-3,0,0,Wind Res,4,Sense,-1,Fire Atk,4,LastingPwr,2,Potential,1,P.Rathian Cortex,2,P.Rathian Shard,4,Monster Slogbone,3,Purecrystal,1
+Rath Heart Leggngs Z,6,-1,1,0,2,9,46,5,-1,-2,1,1,Wind Res,4,Sense,-1,Fire Atk,3,LastingPwr,2,Potential,2,P.Rathian Cortex,2,P.Rathian Shard,4,Monster Slogbone,3,Purecrystal,1
+Guild Bard Boots X,7,-1,0,1,1,9,80,0,0,0,0,0,Torso Up,1,,,,,,,,,Hunter King Coin,2,Brute Coin,4,B.Diablos Chine,3,Conqueror's Seal,1
+Guild Bard Gaiters X,7,-1,0,1,2,9,46,1,1,1,1,1,Torso Up,1,,,,,,,,,Hunter King Coin,2,Brute Coin,4,B.Diablos Chine,3,Conqueror's Seal,1
+Scholar's Socks X,7,-1,0,2,1,9,80,0,0,0,0,0,Torso Up,1,,,,,,,,,Hunter King Coin,2,Brute Coin,4,B.Diablos Chine,3,Conqueror's Seal,1
+Scholar's Sandals X,7,-1,0,2,2,9,46,1,1,1,1,1,Torso Up,1,,,,,,,,,Hunter King Coin,2,Brute Coin,4,B.Diablos Chine,3,Conqueror's Seal,1
+Strider's Espadrlles,7,-1,2,0,1,9,80,0,0,0,0,0,Sense,-2,Fencing,3,Rec Level,1,Carving,3,Guts,1,Hunter King Coin,3,Flying Coin,2,R.Duram Hardtail,3,Conqueror's Seal,1
+Deadeye's Espadrlles,7,-1,2,0,2,9,46,1,1,1,1,1,Tenderizer,3,Sense,1,Rec Level,2,Carving,3,Guts,1,Hunter King Coin,3,Flying Coin,2,R.Duram Hardtail,3,Conqueror's Seal,1
+Barioth Greaves X,6,-1,2,0,1,8,81,-6,-2,0,0,4,Constitutn,3,Stam Recov,-2,Evasion,1,Ice Atk,2,Handicraft,2,Barioth Fur,5,Barioth Cortex,3,Barioth Talon,2,Crushing Fang,2
+Barioth Leggings X,6,-1,2,0,2,8,47,-5,-1,1,1,5,Constitutn,2,Stam Recov,-2,Evasion,3,Ice Atk,1,Loading,2,Barioth Fur,5,Barioth Cortex,3,Barioth Talon,2,Crushing Fang,2
+Barioth Greaves Z,7,-1,3,0,1,9,86,4,-2,0,0,-6,Attack,2,Heat Res,1,Evasion,-3,Evade Dist,2,,,S.Barioth Fur,4,S.Barioth Cortex,3,Hvy Indigo Tusks,1,Arzuros Allbrace,3
+Barioth Leggings Z,7,-1,3,0,2,9,49,5,-1,1,1,-5,Attack,1,Heat Res,2,Evasion,-2,Evade Dist,3,,,S.Barioth Fur,4,S.Barioth Cortex,3,Hvy Indigo Tusks,1,Arzuros Allbrace,3
+Barroth Greaves X,6,-1,0,0,1,8,82,4,2,0,-4,-3,Attack,3,Constitutn,3,Guard,3,Fencing,1,Hunger,-2,Barroth Cortex,3,Barroth Lash,1,Massive Bone,3,Great Jaggi Piel,2
+Barroth Leggings X,6,-1,0,0,2,8,47,5,3,1,-3,-2,Attack,3,Destroyer,1,Constitutn,3,Precision,3,Hunger,-2,Barroth Cortex,3,Barroth Lash,1,Massive Bone,3,Great Jaggi Piel,2
+Barroth Greaves Z,6,-1,0,0,1,9,82,-4,-2,0,2,3,Defense,2,Hearing,4,Fire Atk,-2,Ice Atk,2,Potential,3,J.Barroth Cortex,3,J.Barroth Lash,1,J.Barroth Talon,3,Prized Pelt,3
+Barroth Leggings Z,6,-1,0,0,2,9,47,-5,-1,1,2,5,Defense,2,Hearing,2,Fire Atk,-2,Ice Atk,2,Potential,3,J.Barroth Cortex,3,J.Barroth Lash,1,J.Barroth Talon,3,Prized Pelt,3
+Gobul Greaves X,6,-1,2,0,1,8,82,-3,-5,1,4,0,Rec Speed,-2,Expert,2,Fencing,2,Eating,2,Swimming,2,Gobul Surspike,6,Gobul Piel,6,Fine Gobul Fin,4,Gobul Beacon,1
+Gobul Leggings X,6,-1,2,0,2,8,47,-2,-4,2,5,1,Rec Speed,-2,Expert,1,Recoil,2,Eating,2,Swimming,3,Gobul Surspike,6,Gobul Piel,6,Fine Gobul Fin,4,Gobul Beacon,1
+Gigginox Greaves X,6,-1,3,0,1,8,83,-6,2,-1,0,2,Evasion,1,Status,4,Elemental,-2,FreeElemnt,1,,,Foul Venom Gland,3,Gigginox Piel,2,Nightmarish Maw,2,Great Baggi Piel,4
+Gigginox Leggings X,6,-1,3,0,2,8,48,-5,3,0,1,3,Evasion,1,Status,4,Elemental,-2,FreeElemnt,1,,,Foul Venom Gland,3,Gigginox Piel,2,Nightmarish Maw,2,Great Baggi Piel,4
+Gigginox Greaves Z,6,-1,1,0,1,9,83,0,4,-1,-6,2,FastCharge,2,Stam Drain,3,ThunderAtk,4,Ice Atk,-2,,,B.Giggi Piel,4,Revolting Piel,2,Monster Slogbone,2,Purecrystal,1
+Gigginox Leggings Z,6,-1,1,0,2,9,48,1,5,0,-5,3,FastCharge,2,Stam Drain,2,ThunderAtk,4,Ice Atk,-2,,,B.Giggi Piel,4,Revolting Piel,2,Monster Slogbone,2,Purecrystal,1
+Nibelsnarf Greaves X,6,-1,0,0,1,8,83,3,-2,1,0,-6,Sheathing,1,ThunderAtk,-2,Handicraft,3,PunishDraw,3,Eating,5,Nibel Cortex,4,Lrg Wyvern Stone,1,Monster Slogbone,3,G.Wroggi Piel,4
+Nibelsnarf Leggngs X,6,-1,0,0,2,8,48,4,-1,2,1,-5,Sheathing,2,ThunderAtk,-2,Reload Spd,5,Pierce Up,2,FreeElemnt,3,Nibel Cortex,4,Lrg Wyvern Stone,1,Monster Slogbone,3,G.Wroggi Piel,4
+Duramboros Greaves X,6,-1,2,0,1,8,84,-6,1,1,3,-2,Expert,-1,Stam Drain,3,Handicraft,2,PunishDraw,2,Survivor,2,Duram Cortex,3,Heavy Mossplate,5,Marbled Hump,4,Rhenoplos Bone,3
+Duramboros Leggngs X,6,-1,2,0,2,8,48,-5,2,2,4,-1,FastCharge,3,Expert,-2,Stam Drain,2,Loading,2,Survivor,1,Duram Cortex,3,Heavy Mossplate,5,Marbled Hump,4,Rhenoplos Bone,3
+Duramboros Greaves Z,6,-1,1,0,1,9,86,3,1,1,-4,-4,Attack,3,Evasion,-2,FreeElemnt,3,Guts,2,,,R.Duram Plate,3,R.Duram Shell,5,Marbled Hump,4,Monster Slogbone,3
+Duramboros Leggngs Z,6,-1,1,0,2,9,49,4,2,2,-3,-3,Attack,3,Evasion,-2,Loading,3,Guts,2,,,R.Duram Plate,3,R.Duram Shell,5,Marbled Hump,4,Monster Slogbone,3
+Nargacuga Greaves X,7,-1,0,0,1,8,85,-2,-6,1,2,1,Tenderizer,2,Stamina,-2,Evasion,5,Evade Dist,3,Sense,2,Hvy Narga Fang,6,Nargacuga Shard,3,Narga Tailspear,2,Emperor Hopper,6
+Nargacuga Leggings X,7,-1,0,0,2,8,49,-1,-5,2,3,2,Tenderizer,2,Stamina,-2,Evasion,4,Evade Dist,3,Sense,3,Hvy Narga Fang,6,Nargacuga Shard,3,Narga Tailspear,2,Emperor Hopper,6
+Nargacuga Greaves Z,7,-1,2,0,1,9,87,-2,-6,1,2,1,FastCharge,2,Constitutn,-2,Stam Recov,2,Evasion,3,,,Hvy G.Narga Fang,5,G.Narga Shard,5,Nargacuga Lash,1,Monster Slogbone,3
+Nargacuga Leggings Z,7,-1,2,0,2,9,50,-1,-5,2,3,2,FastCharge,2,Constitutn,-2,Stam Recov,2,Evasion,3,,,Hvy G.Narga Fang,5,G.Narga Shard,5,Nargacuga Lash,1,Monster Slogbone,3
+Helios Greaves X,6,-1,1,1,1,8,85,0,-2,-7,4,1,Protection,-2,Destroyer,2,Hearing,4,Handicraft,2,FreeElemnt,2,G.Ceadeus Fur,5,Ceadeus Scale,7,ElderDragonBlood,4,Conqueror's Seal,1
+Helios Leggings X,6,-1,1,1,2,8,49,1,-1,-6,5,2,Protection,-2,Destroyer,2,Hearing,3,Stamina,2,FreeElemnt,2,G.Ceadeus Fur,5,Ceadeus Scale,7,ElderDragonBlood,4,Conqueror's Seal,1
+Selene Greaves X,6,-1,1,2,1,8,85,0,-2,-7,4,1,Protection,-2,Destroyer,2,Hearing,4,Handicraft,2,FreeElemnt,2,G.Ceadeus Fur,5,Ceadeus Scale,7,ElderDragonBlood,4,Conqueror's Seal,1
+Selene Leggings X,6,-1,1,2,2,8,49,1,-1,-6,5,2,Protection,-2,Destroyer,2,Hearing,3,Stamina,2,FreeElemnt,2,G.Ceadeus Fur,5,Ceadeus Scale,7,ElderDragonBlood,4,Conqueror's Seal,1
+Helios Greaves Z,6,-1,1,1,1,9,86,0,-2,-7,4,1,Hearing,3,Water Atk,2,Sharpness,-2,Handicraft,3,,,G.Ceadeus Shard,5,G.Ceadeus Coat,5,Luminous Organ,6,Conqueror's Seal,1
+Helios Leggings Z,6,-1,1,1,2,9,49,1,-1,-6,5,2,Hearing,3,Water Atk,1,Loading,3,Recoil,-3,,,G.Ceadeus Shard,5,G.Ceadeus Coat,5,Luminous Organ,6,Conqueror's Seal,1
+Selene Greaves Z,6,-1,1,2,1,9,86,0,-2,-7,4,1,Hearing,3,Water Atk,2,Sharpness,-2,Handicraft,3,,,G.Ceadeus Shard,5,G.Ceadeus Coat,5,Luminous Organ,6,Conqueror's Seal,1
+Selene Leggings Z,6,-1,1,2,2,9,49,1,-1,-6,5,2,Hearing,3,Water Atk,1,Loading,3,Recoil,-3,,,G.Ceadeus Shard,5,G.Ceadeus Coat,5,Luminous Organ,6,Conqueror's Seal,1
+Aelucanth Crura X,7,-1,0,1,1,9,86,-5,4,1,0,-1,Protection,-1,Hearing,5,Dragon Atk,2,Fencing,1,Honey,3,Maiden Butterfly,1,Flutterfly,1,Monster Essence,3,Snakebee Larva,20
+Aelucanth Tarsi X,7,-1,0,1,2,9,49,-4,5,2,1,0,Protection,-2,Hearing,5,Dragon Atk,2,Rapid Fire,1,Honey,3,Maiden Butterfly,1,Flutterfly,1,Monster Essence,3,Snakebee Larva,20
+Rhopessa Crura X,7,-1,0,2,1,9,86,-5,4,1,0,-1,Protection,-2,Hearing,5,Dragon Atk,2,Fencing,1,Honey,3,Maiden Butterfly,1,Flutterfly,1,Monster Essence,3,Snakebee Larva,20
+Rhopessa Tarsi X,7,-1,0,2,2,9,49,-4,5,2,1,0,Protection,-2,Hearing,5,Dragon Atk,2,Rapid Fire,1,Honey,3,Maiden Butterfly,1,Flutterfly,1,Monster Essence,3,Snakebee Larva,20
+Rathalos Greaves X,7,-1,3,0,1,8,88,4,-2,-6,0,0,Attack,3,Tenderizer,1,Fire Atk,1,Rec Level,-3,,,Rathalos Cortex,6,Rathalos Ruby,2,Rathalos Shard,6,Lrg Wyvern Stone,1
+Rathalos Leggings X,7,-1,3,0,2,8,50,5,-1,-5,1,1,Attack,3,Tenderizer,1,Fire Atk,2,Rec Level,-2,,,Rathalos Cortex,6,Rathalos Ruby,2,Rathalos Shard,6,Lrg Wyvern Stone,1
+Rath Soul Greaves Z,7,-1,2,0,1,9,90,4,0,-6,0,-2,Health,-2,Expert,4,Hearing,2,Fencing,2,,,A.Rath Cortex,2,A.Rathalos Shard,3,Rathalos Mantle,1,Purecrystal,1
+Rath Soul Leggings Z,7,-1,2,0,2,9,51,5,1,-5,1,-1,Health,-2,Expert,5,Hearing,1,Loading,2,,,A.Rath Cortex,2,A.Rathalos Shard,3,Rathalos Mantle,1,Purecrystal,1
+Diablos Greaves X,7,-1,3,0,1,8,89,4,0,0,0,-6,Sheathing,1,Tremor Res,1,Fencing,3,Sharpener,-2,,,Diablos Cortex,6,Stout Horn,5,Monster Slogbone,3,Diablos Hardtail,1
+Diablos Leggings X,7,-1,3,0,2,8,51,5,1,1,1,-5,Sheathing,1,Precision,-2,Pierce Up,2,Guts,3,,,Diablos Cortex,6,Stout Horn,5,Monster Slogbone,3,Diablos Hardtail,1
+Diablos Greaves Z,7,-1,3,0,1,9,89,4,0,0,0,-6,Tenderizer,1,KO,2,Stam Drain,1,Dragon Atk,-2,,,B.Diablos Cortex,5,Diablos Hardtail,2,Monster Slogbone,4,Rhenoplos Bone,2
+Diablos Leggings Z,7,-1,3,0,2,9,51,5,1,1,1,-5,Tenderizer,1,Dragon Atk,-2,Reload Spd,3,Recoil,2,,,B.Diablos Cortex,5,Diablos Hardtail,2,Monster Slogbone,4,Rhenoplos Bone,2
+Agnaktor Greaves X,7,-1,2,0,1,8,90,4,0,0,-6,-1,Constitutn,2,Fire Atk,3,Sharpness,2,Handicraft,1,Flame Aura,2,Scorching Pleura,5,Agnaktor Piel,4,Lrg Wyvern Stone,1,G.Wroggi Piel,3
+Agnaktor Leggings X,7,-1,2,0,2,8,51,5,1,1,-5,0,Fire Atk,2,Loading,1,Precision,3,Normal Up,2,Flame Aura,2,Scorching Pleura,5,Agnaktor Piel,4,Lrg Wyvern Stone,1,G.Wroggi Piel,3
+Agnaktor Greaves Z,7,-1,0,0,1,9,90,-6,-2,-2,3,4,Constitutn,-3,Guard,4,Guard Boost,3,Fencing,3,,,Drenched Pleura,5,Fine G.Agnak Fin,2,G.Agnak Talon,3,Great Baggi Piel,2
+Agnaktor Leggings Z,7,-1,0,0,2,9,51,-5,-1,-1,4,5,Constitutn,-3,Reload Spd,4,Rapid Fire,3,Pierce Up,2,,,Drenched Pleura,5,Fine G.Agnak Fin,2,G.Agnak Talon,3,Great Baggi Piel,2
+Brachydios Greaves X,7,-1,2,0,1,8,90,4,0,0,-6,-2,Evasion,-2,Evade Dist,1,Bomb Boost,2,Potential,2,Spirit,3,Brach Cortex,4,Brach Ebonshell+,2,Brach Pounder+,2,Meldspar Ore,3
+Brachydios Leggngs X,7,-1,2,0,2,8,51,5,1,1,-5,-1,Evasion,-2,Evade Dist,1,Bomb Boost,2,Potential,2,Spirit,3,Brach Cortex,4,Brach Ebonshell+,2,Brach Pounder+,2,Meldspar Ore,3
+Lagiacrus Greaves X,7,-1,1,0,1,8,90,-6,4,-1,1,-1,FastCharge,3,Tenderizer,2,Stam Drain,2,Status,-2,FreeElemnt,3,Lagiacrus Shard,5,Lagiacrus Piel,4,Lagiacrus Talon,3,Purecrystal,1
+Lagiacrus Leggings X,7,-1,2,0,2,8,51,-5,5,0,2,0,FastCharge,3,Tenderizer,2,Status,-2,Loading,1,FreeElemnt,2,Lagiacrus Shard,5,Lagiacrus Piel,4,Lagiacrus Talon,3,Purecrystal,1
+Lagiacrus Greaves Z,7,-1,1,0,1,9,92,-5,4,-5,2,0,Attack,4,Destroyer,3,Stamina,-2,Blight Res,3,,,I.Lagi Shard,5,I.Lagi Piel,4,Lagiacrus Talon,3,Meldspar Ore,3
+Lagiacrus Leggings Z,7,-1,1,0,2,9,52,-4,5,-4,3,1,Attack,4,Destroyer,3,Stamina,-2,Blight Res,3,,,I.Lagi Shard,5,I.Lagi Piel,4,Lagiacrus Talon,3,Meldspar Ore,3
+Uragaan Greaves X,7,-1,0,0,1,8,91,4,1,-2,-6,-1,Torso Up,1,,,,,,,,,Uragaan Cortex,5,Uragaan Shard,3,Lrg Wyvern Stone,1,Crushing Fang,3
+Uragaan Leggings X,7,-1,0,0,2,8,52,5,2,-1,-5,0,Torso Up,1,,,,,,,,,Uragaan Cortex,5,Uragaan Shard,3,Lrg Wyvern Stone,1,Crushing Fang,3
+Uragaan Greaves Z,7,-1,3,0,1,9,91,4,1,-2,-6,-1,Biology,2,Guard,1,Artillery,3,Swimming,-2,,,S.Uragaan Cortex,5,S.Uragaan Shard,4,S.Uragaan Jaw+,1,Purecrystal,1
+Uragaan Leggings Z,7,-1,3,0,2,9,52,5,2,-1,-5,0,Biology,2,Recoil,1,Artillery,3,Swimming,-2,,,S.Uragaan Cortex,5,S.Uragaan Shard,4,S.Uragaan Jaw+,1,Purecrystal,1
+Zinogre Greaves X,7,-1,0,0,1,8,92,0,4,1,-3,-6,Sense,-3,ThunderAtk,3,Sharpness,2,Handicraft,2,Gloves Off,4,Zinogre Cortex,3,Zinogre Talon,3,Zin D-Shocker,3,Lightning Sac,3
+Zinogre Leggings X,7,-1,0,0,2,8,52,1,5,2,-2,-5,Sense,-3,ThunderAtk,3,Reload Spd,3,Gloves Off,4,Unscathed,1,Zinogre Cortex,3,Zinogre Talon,3,Zin D-Shocker,3,Lightning Sac,3
+Zinogre Greaves Z,7,-1,1,0,1,9,94,0,-6,4,-2,0,FastCharge,1,Evasion,3,Dragon Atk,2,Rec Level,-2,Unscathed,3,S.Zinogre Talon,4,S.Zin Cortex,4,S.Zin Dragnshell,5,Dracophage Bug,5
+Zinogre Leggings Z,7,-1,1,0,2,9,53,1,-5,5,-1,1,Evasion,2,Dragon Atk,3,Loading,1,Rec Level,-3,Unscathed,2,S.Zinogre Talon,4,S.Zin Cortex,4,S.Zin Dragnshell,5,Dracophage Bug,5
+Dober Greaves X,8,-1,3,0,1,9,92,-3,0,4,0,0,Tremor Res,2,Evasion,2,Dragon Atk,1,Hunger,-3,,,Elder Dragonbone,3,G.Agnak Talon,2,Avian Stoutbone,5,Massive Bone,10
+Dober Leggings X,8,-1,3,0,2,9,52,-2,1,5,1,1,Evasion,2,Dragon Atk,2,Reload Spd,1,Hunger,-3,,,Elder Dragonbone,3,G.Agnak Talon,2,Avian Stoutbone,5,Massive Bone,10
+Damascus Greaves X,8,-1,1,0,1,10,95,-3,-4,-1,2,3,ThunderAtk,4,Sharpness,-2,Handicraft,1,Fencing,1,Sharpener,3,H.Jhen Rockskin,3,P.Rathian Cortex,3,A.Rathalos Lash,2,Mohran Scale+,4
+Damascus Leggings X,8,-1,1,0,2,10,54,-2,-3,0,3,4,ThunderAtk,4,Reload Spd,1,Loading,2,Recoil,-2,Pierce Up,1,H.Jhen Rockskin,3,P.Rathian Cortex,3,A.Rathalos Lash,2,Mohran Scale+,4
+Vangis Greaves X,7,-1,2,0,1,9,96,0,-4,-4,0,1,Sharpness,-2,Handicraft,3,Eating,3,Fury,2,,,Deviljho Ripper,4,Deviljho Shard,6,Deviljho Coat,2,Uragaan Ruby,1
+Vangis Leggings X,7,-1,2,0,2,9,54,0,-2,-2,0,3,Loading,3,Recoil,-2,Eating,2,Fury,2,,,Deviljho Ripper,4,Deviljho Shard,6,Deviljho Coat,2,Uragaan Ruby,1
+Lambent Gaiters,8,-1,0,0,1,10,100,1,2,-1,0,-7,Handicraft,3,Fate,-2,Carving,3,Spirit,3,Status Res,3,L.Narga Shard,2,L.Narg Tailspear,4,Cloudy Moonshard,1,Flutterfly,5
+Silhouette Gaiters,8,-1,0,0,2,10,56,2,3,0,1,-6,Loading,3,Fate,-2,Carving,3,Spirit,4,Status Res,2,L.Narga Shard,2,L.Narg Tailspear,4,Cloudy Moonshard,1,Flutterfly,5
+Silver Solgreaves,8,-1,0,0,1,10,100,2,-4,4,-7,0,Tenderizer,3,Fire Atk,4,Sharpness,3,Rec Level,-3,,,S.Rath Cortex,5,S.Rathalos Shard,5,Rath Gleem,4,Purecrystal,1
+Silver Solleggings,8,-1,0,0,2,10,56,3,-3,5,-6,1,Tenderizer,2,Fire Atk,4,Pierce Up,3,Rec Level,-3,,,S.Rath Cortex,5,S.Rathalos Shard,5,Rath Gleem,4,Purecrystal,1
+Golden Lunegreaves,8,-1,1,0,1,10,100,2,-7,4,-4,0,Protection,4,Destroyer,2,ThunderRes,-2,Fate,4,,,G.Rathian Cortex,5,G.Rathian Shard,4,Monster Slogbone,5,Lrg Wyvern Stone,2
+Golden Luneleggings,8,-1,1,0,2,10,56,3,-6,5,-3,1,Protection,4,Destroyer,2,ThunderRes,-2,Fate,4,,,G.Rathian Cortex,5,G.Rathian Shard,4,Monster Slogbone,5,Lrg Wyvern Stone,2
+Grand Yamato Gusoku,8,-1,3,1,1,10,104,4,0,-5,1,-5,FastCharge,1,Fencing,2,Unshakable,3,Potential,-2,,,Mohran Shard,5,Mohran Rockskin,6,Earth Drgnsphire,1,Conqueror's Seal,1
+Grand Mutsu Gusoku,8,-1,3,1,2,10,58,5,1,-4,2,-4,Recoil,1,Pierce Up,2,Unshakable,2,Reload Spd,-2,,,Mohran Shard,5,Mohran Rockskin,6,Earth Drgnsphire,1,Conqueror's Seal,1
+Grand Hyuga Hakama,8,-1,3,2,1,10,104,4,0,-5,1,-5,FastCharge,1,Fencing,2,Unshakable,3,Potential,-2,,,Mohran Shard,5,Mohran Rockskin,6,Earth Drgnsphire,1,Conqueror's Seal,1
+Grand Amagi Hakama,8,-1,3,2,2,10,58,5,1,-4,2,-4,Recoil,1,Pierce Up,2,Unshakable,2,Reload Spd,-2,,,Mohran Shard,5,Mohran Rockskin,6,Earth Drgnsphire,1,Conqueror's Seal,1
+Yamato Gusoku Prime,8,-1,2,1,1,10,104,-7,-2,-2,3,3,Health,3,Stamina,-2,Sharpness,2,Handicraft,2,,,H.Jhen Shard,5,Ghostly Quartz,2,S.Zinogre Talon,4,Purecrystal,2
+Mutsu Gusoku Prime,8,-1,2,1,2,10,58,-6,-1,-1,4,4,Attack,4,Health,2,Stamina,-2,Rapid Fire,2,,,H.Jhen Shard,5,Ghostly Quartz,2,S.Zinogre Talon,4,Purecrystal,2
+Hyuga Hakama Prime,8,-1,2,2,1,10,104,-7,-2,-2,3,3,Health,3,Stamina,-2,Sharpness,2,Handicraft,2,,,H.Jhen Shard,5,Ghostly Quartz,2,S.Zinogre Talon,4,Purecrystal,2
+Amagi Hakama Prime,8,-1,2,2,2,10,58,-6,-1,-1,4,4,Attack,4,Health,2,Stamina,-2,Rapid Fire,2,,,H.Jhen Shard,5,Ghostly Quartz,2,S.Zinogre Talon,4,Purecrystal,2
+Nether Greaves,8,-1,2,0,1,10,106,-5,4,-7,3,0,Expert,-2,Stam Recov,2,CurrentRes,4,Edgemaster,1,,,A.Lagi Shard,5,A.Lagi D-Shocker,2,Ghostly Quartz,1,Cloudy Moonshard,1
+Nether Leggings,8,-1,2,0,2,10,59,-4,5,-6,4,1,Expert,-3,Stam Recov,2,CurrentRes,3,SteadyHand,1,,,A.Lagi Shard,5,A.Lagi D-Shocker,2,Ghostly Quartz,1,Cloudy Moonshard,1
+Miralis Drogues,8,-1,1,0,1,10,106,4,1,-7,0,-3,Attack,4,Stamina,-3,Gloves Off,2,Unshakable,3,,,Miralis Fireback,4,Miralis Fireclaw,3,Dire Dragongem,1,P.Rathian Cortex,10
+Miralis Kedges,8,-1,1,0,2,10,59,5,2,-6,1,-2,Attack,5,Stamina,-3,Gloves Off,1,Unshakable,3,,,Miralis Fireback,4,Miralis Fireclaw,3,Dire Dragongem,1,P.Rathian Cortex,10
+Training Corps Boots,6,-1,0,0,1,10,93,0,3,-4,3,3,Constitutn,3,Dive Dist,4,Sharpness,3,,,,,Training Corps Pass,2,R.Duram Hardtail,4,Barioth Fur,2,Barioth Lash,1
+Training Corps Pants,6,-1,0,0,2,10,53,1,4,-3,4,4,Constitutn,3,Dive Dist,4,Reload Spd,3,,,,,Training Corps Pass,2,R.Duram Hardtail,4,Barioth Fur,2,Barioth Lash,1
+Captain Boots J,7,-1,0,0,1,10,88,-3,-3,-3,-3,-3,Protection,-2,Fate,4,Carving,3,Tranquilzr,4,,,Legend J Ticket,1,S.Zin Dragonhair,4,I.Lagi D-Shocker,2,S.Zinogre Lash,1
+Captain Pants J,7,-1,0,0,2,10,50,-2,-2,-2,-2,-2,Protection,-4,Fate,4,Carving,3,Tranquilzr,2,,,Legend J Ticket,1,S.Zin Dragonhair,4,I.Lagi D-Shocker,2,S.Zinogre Lash,1
+Escadora Scale X,8,-1,1,0,1,10,108,3,-3,-2,-2,-3,FreeElemnt,2,Unscathed,3,Evade Dist,3,Elemental,2,Stun,-2,Alatreon Mantle,6,Alatreon Pallium,6,Azure Drgnsphire,1,Deviljho Crook,1
+Escadora Scala X,8,-1,1,0,2,10,60,4,-2,-1,-1,-2,Blight Res,1,Unscathed,3,Evade Dist,3,Elemental,2,Stun,-3,Alatreon Mantle,6,Alatreon Pallium,6,Azure Drgnsphire,1,Deviljho Crook,1
+Blue Star Boots,6,-1,2,0,1,10,93,1,1,1,1,1,Dragon Atk,4,Sea Legs,2,Spirit,2,,,,,Studio Pass G,1,A.Rathalos Lash,2,Brach Pallium,1,A.Rathalos Shard,3
+Blue Star Feet,6,-1,2,0,2,10,53,2,2,2,2,2,Dragon Atk,4,Sea Legs,2,Spirit,2,,,,,Studio Pass G,1,A.Rathalos Lash,2,Brach Pallium,1,A.Rathalos Shard,3
